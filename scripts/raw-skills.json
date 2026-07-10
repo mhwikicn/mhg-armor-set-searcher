@@ -1,0 +1,1756 @@
+[
+  {
+    "name": "Alchemy",
+    "japanese": "錬金術",
+    "id": "alchemy",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Alchemy",
+        "j": "錬金術"
+      }
+    ],
+    "desc": "Allows special item combinations without the Alchemy Book. See the \"Item Combinations\" area of the Items page for a full listing of Alchemy combos."
+  },
+  {
+    "name": "Ammo Mixer",
+    "japanese": "弾調合",
+    "id": "ammo-mixer",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Ammo Mixer",
+        "j": "最大数弾生産"
+      }
+    ],
+    "desc": "You will always make the maximum possible amount of ammunition when combining. The following table lists all ammo combinations that have variable result amounts:",
+    "table": {
+      "head": [
+        "Shot",
+        "Quantity"
+      ],
+      "body": [
+        {
+          "cells": [
+            {
+              "content": "Normal S Lv2"
+            },
+            {
+              "content": "2～4"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Normal S Lv3"
+            },
+            {
+              "content": "2～4"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Pierce S Lv1"
+            },
+            {
+              "content": "1～3"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Pierce S Lv2"
+            },
+            {
+              "content": "1～3"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Pierce S Lv3"
+            },
+            {
+              "content": "1～2"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Pellet S Lv1"
+            },
+            {
+              "content": "1～3"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Pellet S Lv2"
+            },
+            {
+              "content": "1～3"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Pellet S Lv3"
+            },
+            {
+              "content": "1～3"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Water S"
+            },
+            {
+              "content": "1～3"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Thunder S"
+            },
+            {
+              "content": "2～4"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anti-Theft",
+    "japanese": "盗み無効",
+    "id": "anti-theft",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Anti-Theft",
+        "j": "盗み無効"
+      }
+    ],
+    "desc": "Prevents anyone from stealing your items. The following monster attacks can steal your items:",
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Attack",
+    "japanese": "攻撃",
+    "id": "attack",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Attack Up [S]",
+        "j": "攻撃力UP【小】",
+        "d": "(+3)"
+      },
+      {
+        "points": "+15",
+        "n": "Attack Up [M]",
+        "j": "攻撃力UP【中】",
+        "d": "(+5)"
+      },
+      {
+        "points": "+25",
+        "n": "Attack Up [L]",
+        "j": "攻撃力UP【大】",
+        "d": "(+10)"
+      }
+    ],
+    "desc": "Increases your weapon's Attack. Adds the amount in parentheses to the weapon's True Damage Value before its Bloat Value.",
+    "table": {
+      "head": [
+        "Weapon",
+        "Bloat",
+        "[S]",
+        "[M]",
+        "[L]"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Auto-Guard",
+    "japanese": "自動防御",
+    "id": "auto-guard",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Auto-Guard",
+        "j": "オートガード"
+      }
+    ],
+    "desc": "Blocks attacks automatically if your weapon is drawn. You must also be facing the direction of the incoming attack (within 180 degrees in front of you), and be free to block it (that is, not be in the middle of dodging or attacking.)"
+  },
+  {
+    "name": "Backpacking",
+    "japanese": "運搬",
+    "id": "backpacking",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Backpacking Expert",
+        "j": "運搬の達人"
+      }
+    ],
+    "desc": "You will move faster while carrying an egg or other delivery item, and can drop from a greater height without breaking or dropping it."
+  },
+  {
+    "name": "Bomber",
+    "japanese": "爆弾強化",
+    "id": "bomber",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Bomber",
+        "j": "ボマー"
+      }
+    ],
+    "desc": "Increases the yield of barrel bombs, dealing 1.5&times; damage. See the Explosive Damage section under About Weapons in the Weapons page.",
+    "descSourceM": true
+  },
+  {
+    "name": "Clust S Add",
+    "japanese": "拡散弾追加",
+    "id": "clust-add",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Clust S Add 1",
+        "j": "拡散弾ＬＶ１追加"
+      },
+      {
+        "points": "+15",
+        "n": "Clust S Add 2",
+        "j": "拡散弾ＬＶ1&2追加"
+      },
+      {
+        "points": "+25",
+        "n": "Clust S Add 3",
+        "j": "拡散弾全レベル追加"
+      }
+    ],
+    "desc": "Enables loading Cluster Shot of increasing levels in Bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the Weapons page for which weapons have what ammo by default.)"
+  },
+  {
+    "name": "Cold Res",
+    "japanese": "耐寒",
+    "id": "cold-res",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Cold Effect Doubled",
+        "j": "寒さ倍加【×2】",
+        "d": "(1 min)"
+      },
+      {
+        "points": "-10",
+        "n": "Cold Effect x1.5",
+        "j": "寒さ倍加【×1.5】",
+        "d": "(1 min, 30 sec)"
+      },
+      {
+        "points": "+10",
+        "n": "Cold Effect Halved",
+        "j": "寒さ半減",
+        "d": "(4 min)"
+      },
+      {
+        "points": "+15",
+        "n": "Cold Negated",
+        "j": "寒さ無効"
+      }
+    ],
+    "desc": "Changes how quickly you lose maximum Stamina when in a cold area. Without this skill, your maximum Stamina is reduced every 2 minutes while in a cold area. Hunger Halved appears to have a small effect on this, though not as much as cutting the effect in half.",
+    "descSourceD": true
+  },
+  {
+    "name": "Combine Success",
+    "japanese": "調合成功率",
+    "id": "combine-success",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Combine Success -15%",
+        "j": "調合成功率-15%"
+      },
+      {
+        "points": "-15",
+        "n": "Combine Success -10%",
+        "j": "調合成功率-10%"
+      },
+      {
+        "points": "-10",
+        "n": "Combine Success -5%",
+        "j": "調合成功率-5%"
+      },
+      {
+        "points": "+10",
+        "n": "Combine Success +5%",
+        "j": "調合成功率+5%"
+      },
+      {
+        "points": "+15",
+        "n": "Combine Success +10%",
+        "j": "調合成功率+10%"
+      },
+      {
+        "points": "+25",
+        "n": "Combine Success +20%",
+        "j": "調合成功率+20%"
+      }
+    ],
+    "desc": "Adds the given percent to your chances to successfully combine items. This stacks with Combo Books."
+  },
+  {
+    "name": "Crag S Add",
+    "japanese": "榴弾追加",
+    "id": "crag-add",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Crag S Add 1",
+        "j": "徹甲榴弾ＬＶ１追加"
+      },
+      {
+        "points": "+15",
+        "n": "Crag S Add 2",
+        "j": "徹甲榴弾ＬＶ1&2追加"
+      },
+      {
+        "points": "+25",
+        "n": "Crag S Add 3",
+        "j": "徹甲榴弾全レベル追加"
+      }
+    ],
+    "desc": "Enables loading Crag Shot of increasing levels in Bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the Weapons page for which weapons have what ammo by default.)"
+  },
+  {
+    "name": "Defense",
+    "japanese": "防御",
+    "id": "defense",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Defense -20",
+        "j": "防御-20"
+      },
+      {
+        "points": "-15",
+        "n": "Defense -15",
+        "j": "防御-15"
+      },
+      {
+        "points": "-10",
+        "n": "Defense -10",
+        "j": "防御-10"
+      },
+      {
+        "points": "+10",
+        "n": "Defense +10",
+        "j": "防御+10"
+      },
+      {
+        "points": "+15",
+        "n": "Defense +15",
+        "j": "防御+15"
+      },
+      {
+        "points": "+25",
+        "n": "Defense +20",
+        "j": "防御+20"
+      }
+    ],
+    "desc": "Changes your Defense by the given amount."
+  },
+  {
+    "name": "Dragon Resistance",
+    "japanese": "龍耐性",
+    "id": "dragon-res",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Dragon Res -10",
+        "j": "龍耐性-10"
+      },
+      {
+        "points": "-15",
+        "n": "Dragon Res -5",
+        "j": "龍耐性-5"
+      },
+      {
+        "points": "-10",
+        "n": "Dragon Res -3",
+        "j": "龍耐性-3"
+      },
+      {
+        "points": "+10",
+        "n": "Dragon Res +3",
+        "j": "龍耐性+3"
+      },
+      {
+        "points": "+15",
+        "n": "Dragon Res +5",
+        "j": "龍耐性+5"
+      },
+      {
+        "points": "+25",
+        "n": "Dragon Res +10",
+        "j": "龍耐性+10"
+      }
+    ],
+    "desc": "Changes your Dragon Element Resistance by the given amount. The following monster attacks deal Dragon damage:",
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Earplugs",
+    "japanese": "耳栓",
+    "id": "earplugs",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Earplugs",
+        "j": "聴覚保護"
+      },
+      {
+        "points": "+15",
+        "n": "High Grade Earplugs",
+        "j": "高級耳栓"
+      }
+    ],
+    "desc": "Negates the staggering effect of monster roars. Some monsters roar so loudly that only High Grade Earplugs can block them out. The following monsters' roars can only be negated by High Grade Earplugs, and regular Earplugs have no effect:",
+    "descSourceD": true,
+    "table": {
+      "head": [
+        "Monster"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Element Resistance",
+    "japanese": "全耐性ＵＰ",
+    "id": "element-res",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Element Res -10",
+        "j": "各耐性-10"
+      },
+      {
+        "points": "-15",
+        "n": "Element Res -5",
+        "j": "各耐性-5"
+      },
+      {
+        "points": "-10",
+        "n": "Element Res -3",
+        "j": "各耐性-3"
+      },
+      {
+        "points": "+10",
+        "n": "Element Res +3",
+        "j": "各耐性+3"
+      },
+      {
+        "points": "+15",
+        "n": "Element Res +5",
+        "j": "各耐性+5"
+      },
+      {
+        "points": "+25",
+        "n": "Element Res +10",
+        "j": "各耐性+10"
+      }
+    ],
+    "desc": "Changes all of your Element Resistances by the given amount."
+  },
+  {
+    "name": "Fate",
+    "japanese": "運気",
+    "id": "fate",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Disaster",
+        "j": "災難"
+      },
+      {
+        "points": "-10",
+        "n": "Bad Luck",
+        "j": "不運"
+      },
+      {
+        "points": "+10",
+        "n": "Good Luck",
+        "j": "幸運"
+      },
+      {
+        "points": "+15",
+        "n": "Very Good Luck",
+        "j": "激運"
+      }
+    ],
+    "desc": "Affects your chances to receive additional items in quest rewards. This only affects base quest rewards, not rewards from monster part-breaks. (See \"How quest rewards work\" on the Quests page.)",
+    "table": {
+      "head": [
+        "Skill",
+        "Percent"
+      ],
+      "body": [
+        {
+          "cells": [
+            {
+              "content": "Disaster"
+            },
+            {
+              "content": "25%",
+              "props": [
+                "class='ta-r'"
+              ]
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Bad Luck"
+            },
+            {
+              "content": "50%",
+              "props": [
+                "class='ta-r'"
+              ]
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "none"
+            },
+            {
+              "content": "69%",
+              "props": [
+                "class='ta-r'"
+              ]
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Good Luck"
+            },
+            {
+              "content": "81%",
+              "props": [
+                "class='ta-r'"
+              ]
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Very Good Luck"
+            },
+            {
+              "content": "91%",
+              "props": [
+                "class='ta-r'"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tableSourceM": true
+  },
+  {
+    "name": "Fire Resistance",
+    "japanese": "火耐性",
+    "id": "fire-res",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Fire Res -10",
+        "j": "火耐性-10"
+      },
+      {
+        "points": "-15",
+        "n": "Fire Res -5",
+        "j": "火耐性-5"
+      },
+      {
+        "points": "-10",
+        "n": "Fire Res -3",
+        "j": "火耐性-3"
+      },
+      {
+        "points": "+10",
+        "n": "Fire Res +3",
+        "j": "火耐性+3"
+      },
+      {
+        "points": "+15",
+        "n": "Fire Res +5",
+        "j": "火耐性+5"
+      },
+      {
+        "points": "+25",
+        "n": "Fire Res +10",
+        "j": "火耐性+10"
+      }
+    ],
+    "desc": "Changes your Fire Element Resistance by the given amount. The following monster attacks deal Fire damage:",
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Fishing",
+    "japanese": "釣り",
+    "id": "fishing",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Fishing Master",
+        "j": "釣り名人"
+      }
+    ],
+    "desc": "Increases the timing window to reel in a fish, and makes the lure appear to be much bigger."
+  },
+  {
+    "name": "Flute",
+    "japanese": "笛",
+    "id": "flute",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Flute Master",
+        "j": "笛吹き名人"
+      }
+    ],
+    "desc": "Reduces the chance a flute will break when played by 25%. Flutes with effects are 1.1&times; more potent and their effects last 1.1&times; longer.",
+    "descSourceD": true
+  },
+  {
+    "name": "Gathering",
+    "japanese": "採取",
+    "id": "gathering",
+    "sourceM": true,
+    "stages": [
+      {
+        "points": "-15",
+        "n": "Gathering -2",
+        "j": "採取-2",
+        "d": "(59%)"
+      },
+      {
+        "points": "-10",
+        "n": "Gathering -1",
+        "j": "採取-1",
+        "d": "(72%)"
+      },
+      {
+        "points": "+10",
+        "n": "Gathering +1",
+        "j": "採取+1",
+        "d": "(91%)"
+      },
+      {
+        "points": "+15",
+        "n": "Gathering +2",
+        "j": "採取+2",
+        "d": "(97%)"
+      }
+    ],
+    "desc": "Affects your chances to gather additional items from gathering points, including mining spots. One item is always guaranteed from any gathering point, regardless of this skill, and each successive attempt has a chance to yield another item or to deplete the gathering point (the point will always be depleted once its maximum number of gathering attempts has been made on it.) Normally the chance for another item is 84%: this skill changes that to the value in parentheses for the given level."
+  },
+  {
+    "name": "Gluttony",
+    "japanese": "食いしん坊",
+    "id": "gluttony",
+    "sourceM": true,
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Eating +1",
+        "j": "まんぷく+1",
+        "d": "(+25)"
+      },
+      {
+        "points": "+15",
+        "n": "Eating +2",
+        "j": "まんぷく+2",
+        "d": "(+50)"
+      },
+      {
+        "points": "+25",
+        "n": "Speed Eater",
+        "j": "拾い食い",
+        "d": "(+50, <sup>1</sup>/<sub>3</sub> chance +25 from recovery items)"
+      }
+    ],
+    "desc": "Increases the amount of maximum Stamina gained when eating cooked meat by the amount in parentheses. Additionally, the Speed Eater skill will occasionally increase maximum Stamina by 25 points when using a recovery item 1/3 of the time."
+  },
+  {
+    "name": "Guard",
+    "japanese": "ガード性能",
+    "id": "guard",
+    "stages": [
+      {
+        "points": "-15",
+        "n": "Guard -2",
+        "j": "ガード性能-2",
+        "d": "(+10)"
+      },
+      {
+        "points": "-10",
+        "n": "Guard -1",
+        "j": "ガード性能-1",
+        "d": "(+5)"
+      },
+      {
+        "points": "+10",
+        "n": "Guard +1",
+        "j": "ガード性能+1",
+        "d": "(-10)"
+      },
+      {
+        "points": "+15",
+        "n": "Guard +2",
+        "j": "ガード性能+2",
+        "d": "(-20)"
+      }
+    ],
+    "desc": "Changes your shield's effectiveness while guarding. Affects how far you get knocked back, how much Stamina is consumed, and chip damage. This also affects the guarding animation, based on monster attack and weapon class. Each Guard level affects the Impact value of monster attacks. E.G. If using a Lance, with Guard +1, a Rathalos Fireball deals 40 base Impact, -10 from Guard +1, meaning the resulting 30 Impact only has a small final impact instead of the default large. See the \"About Weapons\" section of the Weapons page for more details.",
+    "descSourceD": true
+  },
+  {
+    "name": "Guard Up",
+    "japanese": "ガード強化",
+    "id": "guard-up",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Guard Up",
+        "j": "ガード強化"
+      }
+    ],
+    "desc": "You will block any attack with your shield, no matter how powerful (you can still be killed if the chip damage is great enough.) The following monster attacks can only be blocked with this skill:",
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    },
+    "tableSourceD": true
+  },
+  {
+    "name": "Handicraft",
+    "japanese": "匠",
+    "id": "handicraft",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Sharpness -1",
+        "j": "斬れ味レベル-1"
+      },
+      {
+        "points": "+10",
+        "n": "Sharpness +1",
+        "j": "斬れ味レベル+1"
+      }
+    ],
+    "desc": "Changes the maximum sharpness of your weapon by 50 hits. Increasing a weapon's sharpness will often unlock a higher level of sharpness as well. Normal and increased sharpness are included on the Weapons page per weapon."
+  },
+  {
+    "name": "Health",
+    "japanese": "体力",
+    "id": "health",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Health -30",
+        "j": "体力-30"
+      },
+      {
+        "points": "-15",
+        "n": "Health -20",
+        "j": "体力-20"
+      },
+      {
+        "points": "-10",
+        "n": "Health -10",
+        "j": "体力-10"
+      },
+      {
+        "points": "+10",
+        "n": "Health +10",
+        "j": "体力+10"
+      },
+      {
+        "points": "+15",
+        "n": "Health +20",
+        "j": "体力+20"
+      },
+      {
+        "points": "+25",
+        "n": "Health +30",
+        "j": "体力+30"
+      }
+    ],
+    "desc": "Changes your maximum Hitpoints by the given amount."
+  },
+  {
+    "name": "Heat Res",
+    "japanese": "耐暑",
+    "id": "heat-res",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Heat Effect Doubled",
+        "j": "暑さ倍加【×2】"
+      },
+      {
+        "points": "-10",
+        "n": "Heat Effect x1.5",
+        "j": "暑さ倍加【×1.5】"
+      },
+      {
+        "points": "+10",
+        "n": "Heat Effect Halved",
+        "j": "暑さ半減"
+      },
+      {
+        "points": "+15",
+        "n": "Heat Negated",
+        "j": "暑さ無効"
+      }
+    ],
+    "desc": "Changes the Hitpoint-depleting effects of hot areas. Without this skill, you lose 1 Hitpoint every few seconds while in a hot area as recoverable (red-bar) health, but your health does not recover until you leave the area or drink a Cold Drink. The frequency of this health loss depends on the locale:",
+    "descSourceD": true,
+    "table": {
+      "head": [
+        "Locale",
+        "Hitpoint Loss"
+      ],
+      "body": [
+        {
+          "cells": [
+            {
+              "content": "Desert"
+            },
+            {
+              "content": "1 / 3 seconds"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Volcano"
+            },
+            {
+              "content": "1 / 2 seconds"
+            }
+          ]
+        }
+      ]
+    },
+    "tableSourceD": true
+  },
+  {
+    "name": "Hunger",
+    "japanese": "はらへり",
+    "id": "hunger",
+    "sourceD": true,
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Double Hunger",
+        "j": "はらへり倍加×2",
+        "d": "(3 min)"
+      },
+      {
+        "points": "-10",
+        "n": "Hunger x1.5",
+        "j": "はらへり倍加×1.5",
+        "d": "(4 min)"
+      },
+      {
+        "points": "+10",
+        "n": "Hunger Halved",
+        "j": "はらへり半減",
+        "d": "(12 min)"
+      },
+      {
+        "points": "+15",
+        "n": "Hunger Negated",
+        "j": "はらへり無効"
+      }
+    ],
+    "desc": "Changes how often you lose maximum Stamina. Without the skill, maximum Stamina is reduced by 25 every 6 minutes, with Double Hunger every 3 minutes, Hunger x 1.5 every 4 minutes, Hunger Halved every 12 minutes, and Hunger Negated totally eliminates Stamina reduction from Hunger. Maximum Stamina can still be reduced by extreme cold despite Hunger Negated."
+  },
+  {
+    "name": "Map",
+    "japanese": "地図",
+    "id": "map",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "No Map",
+        "j": "地図無効"
+      },
+      {
+        "points": "+10",
+        "n": "Farsight",
+        "j": "地図常備"
+      }
+    ],
+    "desc": "No Map hides most of the map even if you have the Map supply item.Farsight displays the full locale map at all times."
+  },
+  {
+    "name": "Normal S Add",
+    "japanese": "通常弾追加",
+    "id": "normal-add",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Normal S Add 1",
+        "j": "通常弾ＬＶ１追加"
+      },
+      {
+        "points": "+15",
+        "n": "Normal S Add All",
+        "j": "通常弾全レベル追加"
+      }
+    ],
+    "desc": "Enables loading Normal Shot of increasing levels in Bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the Weapons page for which weapons have what ammo by default.)"
+  },
+  {
+    "name": "Normal S Up",
+    "japanese": "通常弾強化",
+    "id": "normal-up",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Normal S Up",
+        "j": "通常弾攻撃力UP"
+      }
+    ],
+    "desc": "All levels of Normal Shot deal increased 1.1&times; damage."
+  },
+  {
+    "name": "Paralysis",
+    "japanese": "麻痺",
+    "id": "paralysis",
+    "sourceD": true,
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Paralysis Doubled",
+        "j": "麻痺倍加",
+        "d": "(10 sec)"
+      },
+      {
+        "points": "+10",
+        "n": "Paralysis Halved",
+        "j": "麻痺半減",
+        "d": "(2.5 sec)"
+      },
+      {
+        "points": "+15",
+        "n": "Paralysis Negated",
+        "j": "麻痺無効"
+      }
+    ],
+    "desc": "Changes how long you suffer Paralysis. Without the skill, it takes 5 seconds to recover from Paralysis, with Paralysis Doubled it takes 10 seconds, and Halved 2.5 seconds. The following monster attacks will inflict Paralysis:",
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Pellet S Add",
+    "japanese": "散弾追加",
+    "id": "pellet-add",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Pellet S Add 1",
+        "j": "散弾ＬＶ１追加"
+      },
+      {
+        "points": "+15",
+        "n": "Pellet S Add 2",
+        "j": "散弾ＬＶ1&2追加"
+      },
+      {
+        "points": "+25",
+        "n": "Pellet S Add 3",
+        "j": "散弾全レベル追加"
+      }
+    ],
+    "desc": "Enables loading Pellet Shot of increasing levels in Bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the Weapons page for which weapons have what ammo by default.)"
+  },
+  {
+    "name": "Pellet S Up",
+    "japanese": "散弾強化",
+    "id": "pellet-up",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Pellet S Up",
+        "j": "散弾攻撃力UP"
+      }
+    ],
+    "desc": "All levels of Pellet Shot deal increased 1.3&times; damage."
+  },
+  {
+    "name": "Pierce S Add",
+    "japanese": "貫通弾追加",
+    "id": "pierce-add",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Pierce S Add 1",
+        "j": "貫通弾ＬＶ１追加"
+      },
+      {
+        "points": "+15",
+        "n": "Pierce S Add 2",
+        "j": "貫通弾ＬＶ1&2追加"
+      },
+      {
+        "points": "+25",
+        "n": "Pierce S Add 3",
+        "j": "貫通弾全レベル追加"
+      }
+    ],
+    "desc": "Enables loading Pierce Shot of increasing levels in Bowguns that cannot normally use it. Each level includes the shot(s) from previous levels (see the Weapons page for which weapons have what ammo by default.)"
+  },
+  {
+    "name": "Pierce S Up",
+    "japanese": "貫通弾強化",
+    "id": "pierce-up",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Pierce S Up",
+        "j": "貫通弾攻撃力UP"
+      }
+    ],
+    "desc": "All levels of Pierce Shot deal increased 1.1&times; damage."
+  },
+  {
+    "name": "Poison",
+    "japanese": "毒",
+    "id": "poison",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Poison Quadrupled",
+        "j": "毒倍加【×4】"
+      },
+      {
+        "points": "-15",
+        "n": "Poison Tripled",
+        "j": "毒倍加【×3】"
+      },
+      {
+        "points": "-10",
+        "n": "Poison Doubled",
+        "j": "毒倍加【×2】"
+      },
+      {
+        "points": "+10",
+        "n": "Poison Halved",
+        "j": "毒半減"
+      },
+      {
+        "points": "+15",
+        "n": "Poison Negated",
+        "j": "毒無効"
+      }
+    ],
+    "desc": "Changes how long you suffer Poison. There are three strengths of Poison based on their duration: Weak (10s), Normal (30s), and Strong (40s). The following monster attacks will inflict Poison:",
+    "descSourceD": true,
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Protection",
+    "japanese": "加護",
+    "id": "protection",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Demonic Protection",
+        "j": "悪霊の加護",
+        "d": "(1.3&times;)"
+      },
+      {
+        "points": "+10",
+        "n": "Divine Protection",
+        "j": "精霊の加護",
+        "d": "(0.7&times;)"
+      }
+    ],
+    "desc": "This skill triggers some of the time25% of the time. When triggered, Demonic Protection increases the damage you take by 1.3&times;, and Divine Protection reduces it by 0.7&times;.",
+    "descSourceM": true
+  },
+  {
+    "name": "Psychic",
+    "japanese": "千里眼",
+    "id": "psychic",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Detect",
+        "j": "探知"
+      },
+      {
+        "points": "+15",
+        "n": "Autotracker",
+        "j": "自動マーキング"
+      }
+    ],
+    "desc": "Detect shows a detailed monster icon on the map, as long as the monster is being tracked (if it is Paintballed or the hunter is using Psychoserum).Autotracker additionally shows monster icons on the map at all times, without the need to track it."
+  },
+  {
+    "name": "Rapid Fire",
+    "japanese": "連射",
+    "id": "rapid-fire",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Rapid Fire",
+        "j": "連射"
+      }
+    ],
+    "desc": "Eliminates the need to reload a Bowgun, except when changing ammo type. This also increases recoil by removing the Bowgun's Recoil Compensation from Recoil calculations (see the Recoil section under About Weapons in the Weapons page for more details.)"
+  },
+  {
+    "name": "Recoil",
+    "japanese": "反動",
+    "id": "recoil",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Recoil +1",
+        "j": "反動軽減+1"
+      },
+      {
+        "points": "+15",
+        "n": "Recoil +2",
+        "j": "反動軽減+2"
+      }
+    ],
+    "desc": "Reduces Bowgun Recoil by one, or two, points. A Bowgun's recoil level is calculated based on its base Recoil Compensation and the Shot type being fired (see the Recoil section under About Weapons in the Weapons page for more details.)"
+  },
+  {
+    "name": "Recovery Items",
+    "japanese": "回復",
+    "id": "recovery-items",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Recovery Items Weakened",
+        "j": "体力回復アイテム弱化",
+        "d": "(0.75&times;)"
+      },
+      {
+        "points": "+10",
+        "n": "Recovery Items Strengthened",
+        "j": "体力回復アイテム強化",
+        "d": "(1.5&times;)"
+      }
+    ],
+    "desc": "Changes the amount of Hitpoints recovered from healing items by the modifier in parentheses. (This effect is not applied to other hunters when using Lifepowder or recovery items with the Wide Area skills.)"
+  },
+  {
+    "name": "Recovery Speed",
+    "japanese": "回復速度",
+    "id": "recovery-speed",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Recovery Speed -2",
+        "j": "ダメージ回復速度-2",
+        "d": "(4&times; slower)"
+      },
+      {
+        "points": "-10",
+        "n": "Recovery Speed -1",
+        "j": "ダメージ回復速度-1",
+        "d": "(3&times; slower)"
+      },
+      {
+        "points": "+10",
+        "n": "Recovery Speed +1",
+        "j": "ダメージ回復速度+1",
+        "d": "(3&times; faster)"
+      },
+      {
+        "points": "+25",
+        "n": "Recovery Speed +2",
+        "j": "ダメージ回復速度+2",
+        "d": "(4&times; faster)"
+      }
+    ],
+    "desc": "Affects how quickly you recover temporary damage (red-bar), based on the multiplier in parentheses. Without the skill, you recover 1 hitpoint every two seconds.",
+    "descSourceD": true,
+    "table": {
+      "head": [
+        "Skill",
+        "Rate"
+      ],
+      "body": [
+        {
+          "cells": [
+            {
+              "content": "Recovery Speed -2"
+            },
+            {
+              "content": "1 / 8 seconds (240 frames)"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Recovery Speed -1"
+            },
+            {
+              "content": "1 / 6 seconds (180 frames)"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "no skill"
+            },
+            {
+              "content": "1 / 2 seconds (60 frames)"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Recovery Speed +1"
+            },
+            {
+              "content": "1 / 0.667 seconds (20 frames)"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Recovery Speed +2"
+            },
+            {
+              "content": "1 / 0.5 seconds (15 frames)"
+            }
+          ]
+        }
+      ]
+    },
+    "tableSourceD": true
+  },
+  {
+    "name": "Reload Speed",
+    "japanese": "装填",
+    "id": "reload",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Reload Speed -3",
+        "j": "装填速度-3"
+      },
+      {
+        "points": "-15",
+        "n": "Reload Speed -2",
+        "j": "装填速度-2"
+      },
+      {
+        "points": "-10",
+        "n": "Reload Speed -1",
+        "j": "装填速度-1"
+      },
+      {
+        "points": "+10",
+        "n": "Reload Speed +1",
+        "j": "装填速度+1"
+      },
+      {
+        "points": "+15",
+        "n": "Reload Speed +2",
+        "j": "装填速度+2"
+      },
+      {
+        "points": "+25",
+        "n": "Reload Speed +3",
+        "j": "装填速度+3"
+      }
+    ],
+    "desc": "Changes the time it takes to reload Bowgun shots. Reload time is determined by the Bowgun's base Reload Speed and the Reload time of the Shot type being loaded (see the Reload section under About Weapons in the Weapons page for more details.)"
+  },
+  {
+    "name": "Sense",
+    "japanese": "気配",
+    "id": "sense",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Provocation",
+        "j": "挑発"
+      },
+      {
+        "points": "+10",
+        "n": "Stealth",
+        "j": "隠密"
+      }
+    ],
+    "desc": "Changes how often you draw the aggression of monsters to yourself, and away from other hunters in the area. This does not impact how a monster first detects you."
+  },
+  {
+    "name": "Sharpener",
+    "japanese": "研ぎ師",
+    "id": "sharpener",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Sharpening Halved",
+        "j": "砥石性能半減"
+      },
+      {
+        "points": "+10",
+        "n": "Sharpening Doubled",
+        "j": "砥石使用高速化"
+      }
+    ],
+    "desc": "Changes how long it takes to sharpen your weapon."
+  },
+  {
+    "name": "Sharpness",
+    "japanese": "斬れ味",
+    "id": "sharpness",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Blunt",
+        "j": "なまくら"
+      },
+      {
+        "points": "+10",
+        "n": "Sharp Sword",
+        "j": "業物"
+      }
+    ],
+    "desc": "Changes how much sharpness is lost when attacking with a Blademaster weapon. This also applies to sharpness lost when blocking with the Great Sword."
+  },
+  {
+    "name": "Sleep",
+    "japanese": "睡眠",
+    "id": "sleep",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Sleep Doubled",
+        "j": "睡眠倍加",
+        "d": "(24 sec)"
+      },
+      {
+        "points": "+10",
+        "n": "Sleep Halved",
+        "j": "睡眠半減",
+        "d": "(6 sec)"
+      },
+      {
+        "points": "+15",
+        "n": "Sleep Negated",
+        "j": "睡眠無効"
+      }
+    ],
+    "desc": "Changes how long you remain asleep when inflicted by a monster. Without the skill, you Sleep for 12 seconds, with Sleep Duration Doubled it takes 24 seconds, and Halved 6 seconds. The following monster attacks will inflict Sleep:",
+    "descSourceD": true,
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Speed Gathering",
+    "japanese": "高速収集",
+    "id": "speed-gather",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Speed Gathering",
+        "j": "高速剥ぎ取り＆採取"
+      }
+    ],
+    "desc": "You will gather items in the field and carve monsters  1.3&times; more quickly.",
+    "descSourceM": true
+  },
+  {
+    "name": "Status",
+    "japanese": "特殊攻撃",
+    "id": "status",
+    "sourceM": true,
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Status Attack Up",
+        "j": "状態異常攻撃強化",
+        "d": "(1.125&times;)"
+      }
+    ],
+    "desc": "Applies more 1.125&times; status with every attack that has a status effect. This applies to all Blademaster weapons that have status, and the following Bowgun Shot types: Poison S, Para S, and Sleep S."
+  },
+  {
+    "name": "Stun",
+    "japanese": "気絶",
+    "id": "stun",
+    "stages": [
+      {
+        "points": "-10",
+        "n": "Stun Doubled",
+        "j": "気絶倍加"
+      },
+      {
+        "points": "+10",
+        "n": "Stun Halved",
+        "j": "気絶確率半減"
+      },
+      {
+        "points": "+15",
+        "n": "Stun Negated",
+        "j": "気絶無効"
+      }
+    ],
+    "desc": "Changes how much you need to struggle to break out of Stun inflicted by monster attacks, specifically the number of inputs required to break out. Stun Halved also halves the KO value inflicted by monster attacks."
+  },
+  {
+    "name": "Swordsmanship",
+    "japanese": "剣術",
+    "id": "swordsmanship",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "ESP",
+        "j": "心眼"
+      }
+    ],
+    "desc": "(NOTE: this skill is bugged and has no actual effect. Any weapon in white sharpness already ignores timing sourspots without this skill.)If it were working properly, it would eliminate the late timing sourspot during attack animations if your weapon is in white sharpness, which reduces your damage and potentially makes your attack bounce.",
+    "descSourceD": true
+  },
+  {
+    "name": "Throw",
+    "japanese": "投擲",
+    "id": "throw",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Throw",
+        "j": "投擲技術UP"
+      }
+    ],
+    "desc": "You will throw items such as Paintballs and Throwing Knives farther and faster."
+  },
+  {
+    "name": "Thunder Resistance",
+    "japanese": "雷耐性",
+    "id": "thunder-res",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Thunder Res -10",
+        "j": "雷耐性-10"
+      },
+      {
+        "points": "-15",
+        "n": "Thunder Res -5",
+        "j": "雷耐性-5"
+      },
+      {
+        "points": "-10",
+        "n": "Thunder Res -3",
+        "j": "雷耐性-3"
+      },
+      {
+        "points": "+10",
+        "n": "Thunder Res +3",
+        "j": "雷耐性+3"
+      },
+      {
+        "points": "+15",
+        "n": "Thunder Res +5",
+        "j": "雷耐性+5"
+      },
+      {
+        "points": "+25",
+        "n": "Thunder Res +10",
+        "j": "雷耐性+10"
+      }
+    ],
+    "desc": "Changes your Thunder Element Resistance by the given amount. The following monster attacks deal Thunder damage:",
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Torso Up",
+    "japanese": "胴系統倍加",
+    "id": "torso-up",
+    "stages": [
+      {
+        "n": "Torso Up",
+        "j": "胴系統倍加"
+      }
+    ],
+    "desc": "Copies all skill points from your torso armor. Each piece of armor with Torso Up adds all the skill points for the torso armor an additional time, as if that armor piece had all the same skill points (positive and negative). E.G. one piece doubles the points, two pieces triple, etc."
+  },
+  {
+    "name": "Torso +",
+    "japanese": "胴系統＋",
+    "values": [
+      "胴系統＋１",
+      "胴系統＋２"
+    ],
+    "id": "torso-plus",
+    "stages": [
+      {
+        "n": "Torso +1",
+        "j": "胴系統＋１"
+      },
+      {
+        "n": "Torso +2",
+        "j": "胴系統＋２"
+      }
+    ],
+    "desc": "Adds one, or two, point(s) to all skill points on your torso armor. E.G. Torso +1 turns a -10 skill into -9, or a +14 skill into a +15. This is calculated after any Torso Up skill points."
+  },
+  {
+    "name": "Water Resistance",
+    "japanese": "水耐性",
+    "id": "water-res",
+    "stages": [
+      {
+        "points": "-25",
+        "n": "Water Res -10",
+        "j": "水耐性-10"
+      },
+      {
+        "points": "-15",
+        "n": "Water Res -5",
+        "j": "水耐性-5"
+      },
+      {
+        "points": "-10",
+        "n": "Water Res -3",
+        "j": "水耐性-3"
+      },
+      {
+        "points": "+10",
+        "n": "Water Res +3",
+        "j": "水耐性+3"
+      },
+      {
+        "points": "+15",
+        "n": "Water Res +5",
+        "j": "水耐性+5"
+      },
+      {
+        "points": "+25",
+        "n": "Water Res +10",
+        "j": "水耐性+10"
+      }
+    ],
+    "desc": "Changes your Water Element Resistance by the given amount. The following monster attacks deal Water damage:",
+    "table": {
+      "head": [
+        "Monster",
+        "Attacks"
+      ],
+      "body": []
+    }
+  },
+  {
+    "name": "Whim",
+    "japanese": "気まぐれ",
+    "id": "whim",
+    "stages": [
+      {
+        "points": "-15",
+        "n": "Devil's Whim",
+        "j": "悪魔の気まぐれ",
+        "d": "(+50%)"
+      },
+      {
+        "points": "-10",
+        "n": "Spectre's Whim",
+        "j": "悪霊の気まぐれ",
+        "d": "(+25%)"
+      },
+      {
+        "points": "+10",
+        "n": "Spirit's Whim",
+        "j": "精霊の気まぐれ",
+        "d": "(-25%)"
+      },
+      {
+        "points": "+15",
+        "n": "Divine Whim",
+        "j": "神の気まぐれ",
+        "d": "(-50%)"
+      }
+    ],
+    "desc": "Affects the chance that a tool will break when used, based on the value in parentheses.",
+    "descSourceM": true
+  },
+  {
+    "name": "Wide Area Antidote",
+    "japanese": "広域解毒",
+    "id": "wide-area-antidote",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Wide Area Antidote",
+        "j": "【解毒薬】広域化"
+      }
+    ],
+    "desc": "Shares the effects of an Antidote with all hunters in the area."
+  },
+  {
+    "name": "Wide Area Drugs",
+    "japanese": "種広域化",
+    "id": "wide-area-drugs",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Wide Area Drugs",
+        "j": "怪力・忍耐の種広域化"
+      }
+    ],
+    "desc": "Shares the effects of a Power or Armor Seed with all hunters in the area."
+  },
+  {
+    "name": "Wide Area Recovery",
+    "japanese": "広域回復",
+    "id": "wide-area-recovery",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Herb Wide Area",
+        "j": "【薬草】広域化"
+      },
+      {
+        "points": "+15",
+        "n": "Potion Wide Area",
+        "j": "【回復薬】広域化"
+      }
+    ],
+    "desc": "Restores Hitpoints to all hunters in the area when using an Herb or a Potion (this does not apply to First-Aid Med, Mega Potion, or other recovery items.)",
+    "descSourceD": true
+  },
+  {
+    "name": "Wind Pressure",
+    "japanese": "風圧",
+    "id": "wind-pressure",
+    "stages": [
+      {
+        "points": "+10",
+        "n": "Low Wind Pressure",
+        "j": "風圧【小】無効"
+      },
+      {
+        "points": "+15",
+        "n": "High Wind Pressure",
+        "j": "風圧【大】無効"
+      }
+    ],
+    "desc": "You will resist the effects of wind created by monsters beating their wings, kicking up dust, etc. Some monsters apply stronger Wind Pressure than others, and can only be resisted by the High Wind Pressure skill. Most monsters only require Low Wind Pressure to nullify the wind from their wingbeats, but the following large monsters and their subspecies require High Wind Pressure for to nullify their effects:",
+    "table": {
+      "head": [
+        "Effect",
+        "Monsters"
+      ],
+      "body": [
+        {
+          "cells": [
+            {
+              "content": "Wingbeats"
+            },
+            {
+              "content": "Rathian, Rathalos, Gravios, Monoblos, Diablos, Fatalis"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": "Footfalls"
+            },
+            {
+              "content": "Lao-Shan Lung"
+            }
+          ]
+        }
+      ]
+    },
+    "descSourceD": true
+  }
+]

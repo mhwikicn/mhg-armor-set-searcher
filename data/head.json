@@ -1,0 +1,4809 @@
+[
+  {
+    "category": 0,
+    "defense": {
+      "base": 1
+    },
+    "name": "轻革头盔",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "49": 9,
+      "23": 1
+    },
+    "type": 0,
+    "id": "0001"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 2
+    },
+    "name": "锁链头盔",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "31": 5,
+      "35": 3
+    },
+    "type": 0,
+    "id": "0002"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 4
+    },
+    "name": "猎人头盔",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "48": 4,
+      "39": 2,
+      "58": 2,
+      "9": 2
+    },
+    "type": 0,
+    "id": "0003"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 3
+    },
+    "name": "猎人软帽",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "48": 7,
+      "39": 2,
+      "58": 2,
+      "9": 2
+    },
+    "type": 0,
+    "id": "0004"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 8
+    },
+    "name": "蓝速龙头盔",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "22": 5,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0005"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 4
+    },
+    "name": "蓝速龙软帽",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "22": 9,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0006"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 11
+    },
+    "name": "黄速龙头盔",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      3,
+      -1
+    ],
+    "skills": {
+      "2": 5
+    },
+    "type": 0,
+    "id": "0007"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 6
+    },
+    "name": "黄速龙软帽",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "2": 9
+    },
+    "type": 0,
+    "id": "0008"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "红速龙头盔",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      2,
+      -2,
+      -1
+    ],
+    "skills": {
+      "1": 5
+    },
+    "type": 0,
+    "id": "0009"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 7
+    },
+    "name": "红速龙软帽",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      4,
+      0,
+      0
+    ],
+    "skills": {
+      "1": 9
+    },
+    "type": 0,
+    "id": "0010"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "雌火龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 5,
+      "26": -4,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0011"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 8
+    },
+    "name": "雌火龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 5,
+      "26": -4,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0012"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "沙龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "38": 5,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0013"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 8
+    },
+    "name": "沙龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "38": 5,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0014"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 8
+    },
+    "name": "战斗头盔",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "14": 4,
+      "39": 2,
+      "58": 2
+    },
+    "type": 0,
+    "id": "0015"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 5
+    },
+    "name": "战斗软帽",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "36": 2
+    },
+    "type": 0,
+    "id": "0016"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "一角龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      -2,
+      -1
+    ],
+    "skills": {
+      "30": 5,
+      "2": 2,
+      "53": -4
+    },
+    "type": 0,
+    "id": "0017"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 9
+    },
+    "name": "一角龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      0
+    ],
+    "skills": {
+      "30": 5,
+      "2": 4,
+      "11": 2,
+      "53": -4
+    },
+    "type": 0,
+    "id": "0018"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 7
+    },
+    "name": "骸骨头盔",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "4": 5,
+      "53": 2,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0019"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 4
+    },
+    "name": "骸骨软帽",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "4": 9,
+      "53": 2,
+      "26": -4
+    },
+    "type": 0,
+    "id": "0020"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "毒怪鸟头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "29": 5,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 0,
+    "id": "0021"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 7
+    },
+    "name": "毒怪鸟软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "29": 9,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 0,
+    "id": "0022"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "雄火龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      -4
+    ],
+    "skills": {
+      "30": 5,
+      "55": 2,
+      "26": -2,
+      "60": -2
+    },
+    "type": 0,
+    "id": "0023"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 9
+    },
+    "name": "雄火龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      -2
+    ],
+    "skills": {
+      "30": 5,
+      "55": 2,
+      "26": -2,
+      "60": -2
+    },
+    "type": 0,
+    "id": "0024"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "精炼矿石头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "19": 3,
+      "2": 2,
+      "59": -2
+    },
+    "type": 0,
+    "id": "0056"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 5
+    },
+    "name": "精炼矿石软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 4,
+      "46": 4,
+      "19": 3,
+      "2": 2,
+      "59": -2
+    },
+    "type": 0,
+    "id": "0057"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "电龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      3,
+      4,
+      0
+    ],
+    "skills": {
+      "16": 2,
+      "28": 2,
+      "55": -3
+    },
+    "type": 0,
+    "id": "0058"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 9
+    },
+    "name": "电龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      6,
+      0
+    ],
+    "skills": {
+      "16": 2,
+      "28": 2,
+      "55": -3
+    },
+    "type": 0,
+    "id": "0059"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "帝王龙虾头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      6,
+      -6,
+      -2
+    ],
+    "skills": {
+      "37": 9,
+      "59": 2,
+      "3": 2,
+      "55": -2
+    },
+    "type": 0,
+    "id": "0060"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "水龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      4,
+      -4,
+      0
+    ],
+    "skills": {
+      "53": 3,
+      "59": 2,
+      "3": 2,
+      "55": -2
+    },
+    "type": 0,
+    "id": "0061"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 9
+    },
+    "name": "水龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      6,
+      -2,
+      1
+    ],
+    "skills": {
+      "53": 3,
+      "59": 2,
+      "3": 2,
+      "55": -2
+    },
+    "type": 0,
+    "id": "0062"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "巨蜂头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -5,
+      2,
+      2
+    ],
+    "skills": {
+      "3": 5
+    },
+    "type": 0,
+    "id": "0063"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 5
+    },
+    "name": "巨蜂软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      -4,
+      5,
+      2
+    ],
+    "skills": {
+      "3": 9
+    },
+    "type": 0,
+    "id": "0064"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "角龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      -1,
+      1,
+      0
+    ],
+    "skills": {
+      "56": 4,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0065"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "角龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      2,
+      4,
+      0
+    ],
+    "skills": {
+      "56": 4,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0066"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "爬虫头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -1,
+      -5,
+      2
+    ],
+    "skills": {
+      "1": 5,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0067"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 5
+    },
+    "name": "爬虫软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      2,
+      -3,
+      3
+    ],
+    "skills": {
+      "1": 9,
+      "35": 3
+    },
+    "type": 0,
+    "id": "0068"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "铠龙头盔",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      -2
+    ],
+    "skills": {
+      "39": 2,
+      "38": 3,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0069"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "铠龙软帽",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 2,
+      "38": 3,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0070"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 22
+    },
+    "name": "晓丸【兜】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 2,
+      "14": 3,
+      "55": 3,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0031"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 11
+    },
+    "name": "曙丸【乌帽子】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "36": 3,
+      "55": 3,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0032"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 24
+    },
+    "name": "邪龍之首",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "16": 2,
+      "30": 2,
+      "56": 2,
+      "35": 2,
+      "53": -2
+    },
+    "type": 0,
+    "id": "0044"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 12
+    },
+    "name": "邪龍之面",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "16": 3,
+      "30": 2,
+      "56": 2,
+      "35": 3,
+      "53": -2
+    },
+    "type": 0,
+    "id": "0045"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "公会骑士羽帽",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3
+    },
+    "type": 0,
+    "id": "0046"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "公会骑士面具",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3
+    },
+    "type": 0,
+    "id": "0047"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "忍之面・阳",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      -6,
+      2,
+      1
+    ],
+    "skills": {
+      "1": 2,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0051"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "忍之面・阴",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -5,
+      4,
+      2
+    ],
+    "skills": {
+      "1": 2,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0052"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 2
+    },
+    "name": "蓝速龙伪装头",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "11": 10,
+      "22": 5
+    },
+    "type": 0,
+    "id": "0050"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 1
+    },
+    "name": "苔猪伪装头",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "53": -9
+    },
+    "type": 0,
+    "id": "0053"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 3
+    },
+    "name": "大野猪伪装头",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "25": 9
+    },
+    "type": 0,
+    "id": "0054"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 11
+    },
+    "name": "髑髅面",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "41": 5,
+      "53": -5
+    },
+    "type": 0,
+    "id": "0055"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 12
+    },
+    "name": "黑带头盔",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "skills": {
+      "8": 1
+    },
+    "type": 0,
+    "id": "0153"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "赤炎耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "55": 9,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0154"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "苍流耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "59": 9,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0155"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "金雷耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "19": 9,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0156"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "幽玄耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      5
+    ],
+    "skills": {
+      "35": 8
+    },
+    "type": 0,
+    "id": "0157"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "樱火龙头盔",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 2,
+      "11": 3,
+      "9": 3,
+      "2": -3
+    },
+    "type": 0,
+    "id": "0158"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 8
+    },
+    "name": "樱火龙软帽",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 2,
+      "11": 3,
+      "9": 3,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0159"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "苍火龙头盔",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -1,
+      -4
+    ],
+    "skills": {
+      "44": 3,
+      "50": 3,
+      "23": -3
+    },
+    "type": 0,
+    "id": "0160"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 9
+    },
+    "name": "苍火龙软帽",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      5,
+      2,
+      -2
+    ],
+    "skills": {
+      "44": 3,
+      "42": 2,
+      "23": -3
+    },
+    "type": 0,
+    "id": "0161"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 21
+    },
+    "name": "白一角龙头盔",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      -2,
+      -1
+    ],
+    "skills": {
+      "30": 3,
+      "56": 3,
+      "53": -3,
+      "58": -2
+    },
+    "type": 0,
+    "id": "0162"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "白一角龙软帽",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      0
+    ],
+    "skills": {
+      "30": 3,
+      "56": 4,
+      "11": 3,
+      "53": -3,
+      "58": -2
+    },
+    "type": 0,
+    "id": "0163"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 11
+    },
+    "name": "轻革Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "49": 6,
+      "12": 3,
+      "26": -3
+    },
+    "type": 0,
+    "id": "0075"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 12
+    },
+    "name": "锁链Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "31": 5,
+      "25": 6
+    },
+    "type": 0,
+    "id": "0076"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "猎人Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "48": 3,
+      "10": 2,
+      "39": 3,
+      "58": -3
+    },
+    "type": 0,
+    "id": "0077"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "猎人Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "48": 7,
+      "47": 2,
+      "39": 3,
+      "58": -3
+    },
+    "type": 0,
+    "id": "0078"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "蓝速龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "22": 5,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0081"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "蓝速龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "22": 5,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0082"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 21
+    },
+    "name": "黄速龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      3,
+      -1
+    ],
+    "skills": {
+      "2": 5,
+      "45": 2
+    },
+    "type": 0,
+    "id": "0085"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "黄速龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "2": 5,
+      "45": 2
+    },
+    "type": 0,
+    "id": "0086"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 23
+    },
+    "name": "红速龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      2,
+      -2,
+      -1
+    ],
+    "skills": {
+      "1": 5
+    },
+    "type": 0,
+    "id": "0087"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "红速龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      4,
+      0,
+      0
+    ],
+    "skills": {
+      "1": 9
+    },
+    "type": 0,
+    "id": "0088"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 26
+    },
+    "name": "雌火龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 5,
+      "45": 2,
+      "26": -4
+    },
+    "type": 0,
+    "id": "0071"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "雌火龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 5,
+      "45": 2,
+      "26": -4
+    },
+    "type": 0,
+    "id": "0072"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 24
+    },
+    "name": "沙龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "38": 5,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0091"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "沙龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "38": 9,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0092"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "战斗Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "14": 4,
+      "39": 2,
+      "58": 2,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0083"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "战斗Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "36": 3,
+      "39": -3,
+      "18": -2
+    },
+    "type": 0,
+    "id": "0084"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "骸骨Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "4": 5,
+      "53": 2,
+      "57": 2,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0079"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "骸骨Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "4": 5,
+      "53": 2,
+      "57": 2,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0080"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 24
+    },
+    "name": "毒怪鸟Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "29": 5,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 0,
+    "id": "0089"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "毒怪鸟Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "29": 9,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 0,
+    "id": "0090"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 27
+    },
+    "name": "雄火龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      -4
+    ],
+    "skills": {
+      "30": 3,
+      "16": 2,
+      "55": 2,
+      "19": -2,
+      "60": -2
+    },
+    "type": 0,
+    "id": "0073"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "雄火龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      -2
+    ],
+    "skills": {
+      "30": 3,
+      "16": 2,
+      "55": 3,
+      "19": -2,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0074"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "精炼矿石Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 4,
+      "19": 3,
+      "2": 2,
+      "59": -2
+    },
+    "type": 0,
+    "id": "0027"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "精炼矿石Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 4,
+      "46": 4,
+      "19": 3,
+      "2": 2,
+      "59": -2
+    },
+    "type": 0,
+    "id": "0028"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 26
+    },
+    "name": "电龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      3,
+      4,
+      0
+    ],
+    "skills": {
+      "16": 2,
+      "28": 2,
+      "11": -2
+    },
+    "type": 0,
+    "id": "0037"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "电龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      6,
+      0
+    ],
+    "skills": {
+      "16": 2,
+      "28": 2,
+      "11": -7
+    },
+    "type": 0,
+    "id": "0038"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 27
+    },
+    "name": "帝王龙虾Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      6,
+      -6,
+      -2
+    ],
+    "skills": {
+      "37": 9,
+      "59": 2,
+      "3": 2,
+      "55": -2
+    },
+    "type": 0,
+    "id": "0039"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 27
+    },
+    "name": "水龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      4,
+      -4,
+      0
+    ],
+    "skills": {
+      "38": 3,
+      "53": 2,
+      "59": 2,
+      "3": 2,
+      "55": -2
+    },
+    "type": 0,
+    "id": "0040"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "水龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      6,
+      -2,
+      1
+    ],
+    "skills": {
+      "38": 3,
+      "53": 2,
+      "59": 2,
+      "3": 2,
+      "55": -2
+    },
+    "type": 0,
+    "id": "0041"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "巨蜂Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -5,
+      2,
+      2
+    ],
+    "skills": {
+      "3": 5,
+      "1": 2,
+      "2": 2,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0035"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "巨蜂Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      -4,
+      5,
+      2
+    ],
+    "skills": {
+      "3": 6,
+      "1": 2,
+      "2": 2,
+      "22": -5
+    },
+    "type": 0,
+    "id": "0036"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 28
+    },
+    "name": "角龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      -1,
+      1,
+      0
+    ],
+    "skills": {
+      "56": 5,
+      "30": 2,
+      "53": -4
+    },
+    "type": 0,
+    "id": "0029"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "角龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      2,
+      4,
+      0
+    ],
+    "skills": {
+      "56": 5,
+      "30": 2,
+      "53": -4
+    },
+    "type": 0,
+    "id": "0030"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "爬虫Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -1,
+      -5,
+      2
+    ],
+    "skills": {
+      "1": 5,
+      "2": 4,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0042"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "爬虫Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      2,
+      -3,
+      3
+    ],
+    "skills": {
+      "1": 5,
+      "2": 4,
+      "22": -5
+    },
+    "type": 0,
+    "id": "0043"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 30
+    },
+    "name": "铠龙Ｇ头盔",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      -2
+    ],
+    "skills": {
+      "39": 2,
+      "38": 3,
+      "53": -2,
+      "22": -4
+    },
+    "type": 0,
+    "id": "0025"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "铠龙Ｇ软帽",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 2,
+      "38": 3,
+      "53": -2
+    },
+    "type": 0,
+    "id": "0026"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 32
+    },
+    "name": "晓丸・罗【兜】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 2,
+      "43": 2,
+      "14": 3,
+      "55": 2
+    },
+    "type": 0,
+    "id": "0182"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "曙丸・罗【乌帽子】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "43": 2,
+      "36": 3,
+      "55": 2,
+      "39": -2
+    },
+    "type": 0,
+    "id": "0183"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 34
+    },
+    "name": "邪龍Ｇ之首",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "30": 2,
+      "56": 3,
+      "58": -2,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0186"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "邪龍Ｇ之面",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "30": 2,
+      "56": 3,
+      "39": -2,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0187"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "公会骑士Ｇ冠帽",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3,
+      "11": 3
+    },
+    "type": 0,
+    "id": "0169"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "公会骑士Ｇ面具",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3,
+      "11": 3
+    },
+    "type": 0,
+    "id": "0170"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "忍之面・白",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      -6,
+      2,
+      1
+    ],
+    "skills": {
+      "1": 3,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0167"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "忍之面・黑",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -5,
+      4,
+      2
+    ],
+    "skills": {
+      "1": 3,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0168"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 12
+    },
+    "name": "蓝速龙Ｇ伪装头",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "11": 10,
+      "22": 5
+    },
+    "type": 0,
+    "id": "0165"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 11
+    },
+    "name": "苔猪Ｇ伪装头",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "53": -9
+    },
+    "type": 0,
+    "id": "0164"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 13
+    },
+    "name": "大野猪Ｇ伪装头",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "25": 9
+    },
+    "type": 0,
+    "id": "0166"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 21
+    },
+    "name": "髑髅Ｇ面",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "41": 4,
+      "57": 3,
+      "53": -4
+    },
+    "type": 0,
+    "id": "0177"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "赤炎Ｇ耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "55": 9,
+      "35": 4
+    },
+    "type": 0,
+    "id": "0173"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "苍流Ｇ耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "59": 9,
+      "35": 4
+    },
+    "type": 0,
+    "id": "0174"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "金雷Ｇ耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "19": 9,
+      "35": 4
+    },
+    "type": 0,
+    "id": "0175"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "幽玄Ｇ耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      5
+    ],
+    "skills": {
+      "35": 8
+    },
+    "type": 0,
+    "id": "0176"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 26
+    },
+    "name": "樱火龙Ｇ头盔",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 3,
+      "11": 3,
+      "26": -2,
+      "58": -3
+    },
+    "type": 0,
+    "id": "0178"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 14
+    },
+    "name": "樱火龙Ｇ软帽",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 3,
+      "11": 3,
+      "20": 4,
+      "26": -2,
+      "36": -3
+    },
+    "type": 0,
+    "id": "0179"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 27
+    },
+    "name": "苍火龙Ｇ头盔",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -1,
+      -4
+    ],
+    "skills": {
+      "22": 4,
+      "30": 3,
+      "58": -3,
+      "23": -1
+    },
+    "type": 0,
+    "id": "0180"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "苍火龙Ｇ软帽",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      5,
+      2,
+      -2
+    ],
+    "skills": {
+      "22": 3,
+      "30": 3,
+      "58": -4,
+      "23": -3
+    },
+    "type": 0,
+    "id": "0181"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "轻革Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "44": 2,
+      "31": 2,
+      "22": -2,
+      "12": 1,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0093"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "锁链Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "52": 2,
+      "45": 3,
+      "39": -3
+    },
+    "type": 0,
+    "id": "0094"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 24
+    },
+    "name": "猎人Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "16": 3,
+      "11": 2,
+      "3": -2,
+      "24": 3
+    },
+    "type": 0,
+    "id": "0095"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "猎人Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "16": 3,
+      "11": 2,
+      "32": 2,
+      "36": -4
+    },
+    "type": 0,
+    "id": "0096"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 28
+    },
+    "name": "蓝速龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "22": 4,
+      "3": 2,
+      "39": 2,
+      "14": -3
+    },
+    "type": 0,
+    "id": "0099"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "蓝速龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "22": 4,
+      "3": 3,
+      "46": 5,
+      "36": -3
+    },
+    "type": 0,
+    "id": "0100"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 31
+    },
+    "name": "黄速龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      3,
+      -1
+    ],
+    "skills": {
+      "2": 5,
+      "22": 3,
+      "18": 3
+    },
+    "type": 0,
+    "id": "0109"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "黄速龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "2": 3,
+      "22": 2,
+      "32": 2,
+      "36": -3
+    },
+    "type": 0,
+    "id": "0110"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 33
+    },
+    "name": "红速龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      2,
+      -2,
+      -1
+    ],
+    "skills": {
+      "1": 4,
+      "2": 1,
+      "52": 3,
+      "45": -3
+    },
+    "type": 0,
+    "id": "0111"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "红速龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      4,
+      0,
+      0
+    ],
+    "skills": {
+      "1": 5,
+      "2": 4,
+      "20": 3,
+      "36": -3
+    },
+    "type": 0,
+    "id": "0112"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 36
+    },
+    "name": "雌火龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 3,
+      "18": 2,
+      "14": 4,
+      "30": -2
+    },
+    "type": 0,
+    "id": "0117"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "雌火龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "18": 3,
+      "15": 3,
+      "58": 4,
+      "35": 4,
+      "45": -1
+    },
+    "type": 0,
+    "id": "0118"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 34
+    },
+    "name": "沙龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "38": 3,
+      "14": 4,
+      "15": 1,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0115"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "沙龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "38": 4,
+      "58": 5,
+      "15": 2,
+      "22": -4
+    },
+    "type": 0,
+    "id": "0116"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 28
+    },
+    "name": "战斗Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "35": 3,
+      "43": 2,
+      "10": 2,
+      "15": -2
+    },
+    "type": 0,
+    "id": "0101"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "战斗Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "36": 5,
+      "35": 3,
+      "58": -5
+    },
+    "type": 0,
+    "id": "0102"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 38
+    },
+    "name": "一角龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      -2,
+      -1
+    ],
+    "skills": {
+      "56": 3,
+      "23": 4,
+      "53": -4
+    },
+    "type": 0,
+    "id": "0128"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "一角龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "41": 4,
+      "53": -4,
+      "18": 4
+    },
+    "type": 0,
+    "id": "0129"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 27
+    },
+    "name": "骸骨Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "4": 3,
+      "38": 2,
+      "50": 4
+    },
+    "type": 0,
+    "id": "0097"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "骸骨Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "4": 3,
+      "38": 2,
+      "45": 3,
+      "2": -4
+    },
+    "type": 0,
+    "id": "0098"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 34
+    },
+    "name": "毒怪鸟Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "25": 5,
+      "4": 3,
+      "12": 2
+    },
+    "type": 0,
+    "id": "0113"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "毒怪鸟Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "25": 2,
+      "33": 3,
+      "36": -4,
+      "58": -6
+    },
+    "type": 0,
+    "id": "0114"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 37
+    },
+    "name": "雄火龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      -4
+    ],
+    "skills": {
+      "24": 3,
+      "16": 3,
+      "22": -5
+    },
+    "type": 0,
+    "id": "0121"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "雄火龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      -2
+    ],
+    "skills": {
+      "20": 2,
+      "16": 4,
+      "36": -4,
+      "11": -3
+    },
+    "type": 0,
+    "id": "0122"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 30
+    },
+    "name": "精炼矿石Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "49": 3,
+      "18": 3,
+      "37": -2
+    },
+    "type": 0,
+    "id": "0107"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "精炼矿石Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 2,
+      "20": 2,
+      "37": -3,
+      "36": -4
+    },
+    "type": 0,
+    "id": "0108"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 36
+    },
+    "name": "电龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      3,
+      4,
+      0
+    ],
+    "skills": {
+      "28": 2,
+      "44": 2,
+      "22": -2,
+      "18": -1
+    },
+    "type": 0,
+    "id": "0119"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "电龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      6,
+      0
+    ],
+    "skills": {
+      "28": 4,
+      "58": 3,
+      "35": 3,
+      "1": -2,
+      "18": -3
+    },
+    "type": 0,
+    "id": "0120"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 37
+    },
+    "name": "帝王龙虾Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      6,
+      -6,
+      -2
+    ],
+    "skills": {
+      "59": 5,
+      "57": 4,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0125"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 37
+    },
+    "name": "水龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      4,
+      -4,
+      0
+    ],
+    "skills": {
+      "48": 3,
+      "38": 3,
+      "53": 3,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0123"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "水龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      6,
+      -2,
+      1
+    ],
+    "skills": {
+      "48": 3,
+      "38": 3,
+      "53": 3,
+      "22": -6
+    },
+    "type": 0,
+    "id": "0124"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 30
+    },
+    "name": "巨蜂Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -5,
+      2,
+      2
+    ],
+    "skills": {
+      "1": 3,
+      "41": 2,
+      "3": 4,
+      "53": -2
+    },
+    "type": 0,
+    "id": "0103"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "巨蜂Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      -4,
+      5,
+      2
+    ],
+    "skills": {
+      "1": 3,
+      "41": 2,
+      "3": 3,
+      "37": -4,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0104"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 38
+    },
+    "name": "角龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      -1,
+      1,
+      0
+    ],
+    "skills": {
+      "56": 3,
+      "44": 2,
+      "53": -4,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0126"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "角龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      2,
+      4,
+      0
+    ],
+    "skills": {
+      "56": 3,
+      "44": 3,
+      "53": -5,
+      "22": -4
+    },
+    "type": 0,
+    "id": "0127"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 30
+    },
+    "name": "爬虫Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -1,
+      -5,
+      2
+    ],
+    "skills": {
+      "60": 5,
+      "11": 2,
+      "53": -7
+    },
+    "type": 0,
+    "id": "0105"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 15
+    },
+    "name": "爬虫Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      2,
+      -3,
+      3
+    ],
+    "skills": {
+      "60": 5,
+      "11": 2,
+      "58": -4
+    },
+    "type": 0,
+    "id": "0106"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 40
+    },
+    "name": "铠龙Ｓ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      -2
+    ],
+    "skills": {
+      "39": 3,
+      "30": 3,
+      "58": -2,
+      "18": -3
+    },
+    "type": 0,
+    "id": "0130"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "铠龙Ｓ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "17": 2,
+      "36": -5
+    },
+    "type": 0,
+    "id": "0131"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 42
+    },
+    "name": "晓丸・霸【兜】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 2,
+      "30": 4,
+      "58": -3,
+      "34": 2
+    },
+    "type": 0,
+    "id": "0208"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 21
+    },
+    "name": "曙丸・霸【乌帽子】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "36": 4,
+      "34": 4,
+      "58": -5
+    },
+    "type": 0,
+    "id": "0209"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 44
+    },
+    "name": "邪龍Ｓ之首",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "16": 2,
+      "30": 3,
+      "24": 3,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0212"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 22
+    },
+    "name": "邪龍Ｓ之面",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "16": 3,
+      "36": 3,
+      "18": 4,
+      "58": -5
+    },
+    "type": 0,
+    "id": "0213"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "公会骑士Ｓ冠帽",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "18": 2,
+      "11": 3,
+      "25": 2,
+      "9": 2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0193"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "公会骑士Ｓ面具",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "18": 2,
+      "11": 3,
+      "25": 2,
+      "9": 2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0194"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "忍之面・天",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      -6,
+      2,
+      1
+    ],
+    "skills": {
+      "18": 2,
+      "26": 2,
+      "53": 3,
+      "49": 2,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0191"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "忍之面・地",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -5,
+      4,
+      2
+    ],
+    "skills": {
+      "18": 2,
+      "26": 2,
+      "53": 3,
+      "57": 3,
+      "22": -1
+    },
+    "type": 0,
+    "id": "0192"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 17
+    },
+    "name": "蓝速龙Ｓ伪装头",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "15": 5,
+      "11": -8
+    },
+    "type": 0,
+    "id": "0189"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "苔猪Ｓ伪装头",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "25": 9,
+      "53": -6
+    },
+    "type": 0,
+    "id": "0188"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "大野猪Ｓ伪装头",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "9": 8,
+      "44": 1,
+      "26": -2,
+      "22": -1
+    },
+    "type": 0,
+    "id": "0190"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 31
+    },
+    "name": "髑髅Ｓ面",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "40": 4,
+      "35": 6,
+      "53": -2
+    },
+    "type": 0,
+    "id": "0201"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "赤炎Ｓ耳饰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "55": 9,
+      "35": 6
+    },
+    "type": 0,
+    "id": "0197"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "苍流Ｓ耳饰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "59": 9,
+      "35": 6
+    },
+    "type": 0,
+    "id": "0198"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "金雷Ｓ耳饰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "19": 9,
+      "35": 6
+    },
+    "type": 0,
+    "id": "0199"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "幽玄Ｓ耳饰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      5
+    ],
+    "skills": {
+      "35": 8
+    },
+    "type": 0,
+    "id": "0200"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 36
+    },
+    "name": "樱火龙Ｓ头盔",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 3,
+      "15": 2,
+      "22": -2,
+      "60": -4
+    },
+    "type": 0,
+    "id": "0202"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "樱火龙Ｓ软帽",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 4,
+      "15": 3,
+      "22": -4
+    },
+    "type": 0,
+    "id": "0203"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 37
+    },
+    "name": "苍火龙Ｓ头盔",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -1,
+      -4
+    ],
+    "skills": {
+      "24": 3,
+      "56": 3,
+      "53": -2,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0204"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "苍火龙Ｓ软帽",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      5,
+      2,
+      -2
+    ],
+    "skills": {
+      "46": 3,
+      "11": 2,
+      "36": -3,
+      "23": -4
+    },
+    "type": 0,
+    "id": "0205"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 41
+    },
+    "name": "白一角龙Ｓ头盔",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      -2,
+      -1
+    ],
+    "skills": {
+      "56": 4,
+      "22": 4,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0206"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 21
+    },
+    "name": "白一角龙Ｓ软帽",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      0
+    ],
+    "skills": {
+      "56": 3,
+      "22": 4,
+      "53": -4,
+      "35": 4
+    },
+    "type": 0,
+    "id": "0207"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 16
+    },
+    "name": "轻革Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      1
+    ],
+    "skills": {
+      "58": 4,
+      "51": 6,
+      "22": -5
+    },
+    "type": 0,
+    "id": "0132"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 24
+    },
+    "name": "猎人Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "43": 2,
+      "40": 2,
+      "53": -2,
+      "50": 2,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0133"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "猎人Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "43": 3,
+      "20": 2,
+      "35": 3,
+      "34": 4,
+      "36": -3
+    },
+    "type": 0,
+    "id": "0134"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 27
+    },
+    "name": "骸骨Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "9": 3,
+      "34": 2,
+      "30": 4,
+      "39": -2
+    },
+    "type": 0,
+    "id": "0135"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "骸骨Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "9": 3,
+      "34": 2,
+      "46": 1,
+      "18": -2,
+      "36": -2
+    },
+    "type": 0,
+    "id": "0136"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 28
+    },
+    "name": "战斗Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "35": 2,
+      "24": 2,
+      "3": -4,
+      "22": -2,
+      "30": -1
+    },
+    "type": 0,
+    "id": "0224"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "战斗Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "35": 4,
+      "21": 4,
+      "43": 3,
+      "39": -3,
+      "22": -1
+    },
+    "type": 0,
+    "id": "0225"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 40
+    },
+    "name": "蓝速龙Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "25": 2,
+      "34": 3,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0137"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "蓝速龙Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "25": 2,
+      "34": 2,
+      "21": 2,
+      "36": -2
+    },
+    "type": 0,
+    "id": "0138"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 30
+    },
+    "name": "精炼矿石Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 6,
+      "24": 2,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0139"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 18
+    },
+    "name": "精炼矿石Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "42": 2,
+      "38": -4,
+      "45": -2
+    },
+    "type": 0,
+    "id": "0140"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 34
+    },
+    "name": "毒怪鸟Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "1": 3,
+      "15": 2,
+      "58": -2,
+      "53": -4
+    },
+    "type": 0,
+    "id": "0141"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "毒怪鸟Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "61": 5,
+      "39": -4
+    },
+    "type": 0,
+    "id": "0142"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 34
+    },
+    "name": "沙龙Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "11": 3,
+      "48": 2,
+      "44": 4,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0143"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 19
+    },
+    "name": "沙龙Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "11": 3,
+      "48": 3,
+      "35": 3,
+      "39": -4
+    },
+    "type": 0,
+    "id": "0144"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 36
+    },
+    "name": "电龙Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      -3,
+      4,
+      0
+    ],
+    "skills": {
+      "16": 5,
+      "15": 2,
+      "50": -4
+    },
+    "type": 0,
+    "id": "0145"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "电龙Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      -1,
+      6,
+      0
+    ],
+    "skills": {
+      "28": 3,
+      "15": 2,
+      "36": -2,
+      "26": -5
+    },
+    "type": 0,
+    "id": "0146"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 37
+    },
+    "name": "水龙Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      4,
+      -4,
+      0
+    ],
+    "skills": {
+      "30": 3,
+      "18": 3,
+      "11": 3,
+      "14": -2
+    },
+    "type": 0,
+    "id": "0147"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "水龙Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      6,
+      -2,
+      1
+    ],
+    "skills": {
+      "30": 4,
+      "18": 2,
+      "11": 3,
+      "39": -2
+    },
+    "type": 0,
+    "id": "0148"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 38
+    },
+    "name": "角龙Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      -1,
+      1,
+      0
+    ],
+    "skills": {
+      "56": 4,
+      "11": 4,
+      "53": -3
+    },
+    "type": 0,
+    "id": "0149"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "角龙Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      2,
+      4,
+      0
+    ],
+    "skills": {
+      "56": 4,
+      "11": 4,
+      "53": -3,
+      "35": 4
+    },
+    "type": 0,
+    "id": "0150"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 40
+    },
+    "name": "铠龙Ｕ头盔",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "38": 2,
+      "11": 3,
+      "15": -2,
+      "53": -1
+    },
+    "type": 0,
+    "id": "0151"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 24
+    },
+    "name": "铠龙Ｕ软帽",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "38": 4,
+      "35": 2
+    },
+    "type": 0,
+    "id": "0152"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 42
+    },
+    "name": "晓丸・皇【兜】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "27": 3,
+      "30": 3,
+      "18": 2,
+      "15": -3
+    },
+    "type": 0,
+    "id": "0214"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 21
+    },
+    "name": "曙丸・皇【乌帽子】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "54": 3,
+      "36": -5,
+      "58": -3
+    },
+    "type": 0,
+    "id": "0215"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 44
+    },
+    "name": "魔龍之首",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "40": 3,
+      "34": 2,
+      "53": -2,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0222"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 22
+    },
+    "name": "魔龍之面",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "5": 3,
+      "34": -3,
+      "58": -5
+    },
+    "type": 0,
+    "id": "0223"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 40
+    },
+    "name": "金月头盔",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      0
+    ],
+    "skills": {
+      "11": 3,
+      "24": 2,
+      "50": -2,
+      "22": -4
+    },
+    "type": 0,
+    "id": "0218"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 20
+    },
+    "name": "金月软帽",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      0
+    ],
+    "skills": {
+      "11": 4,
+      "46": 2,
+      "36": -2,
+      "26": -2,
+      "35": 5
+    },
+    "type": 0,
+    "id": "0219"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 42
+    },
+    "name": "银日头盔",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      0
+    ],
+    "skills": {
+      "27": 2,
+      "24": 2,
+      "22": -4,
+      "11": -2,
+      "15": -1
+    },
+    "type": 0,
+    "id": "0220"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 21
+    },
+    "name": "银日软帽",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      0
+    ],
+    "skills": {
+      "21": 6,
+      "57": 2,
+      "39": -3
+    },
+    "type": 0,
+    "id": "0221"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 6
+    },
+    "name": "守护耳饰",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "13": 10
+    },
+    "type": 0,
+    "id": "0226"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "剑圣耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "27": 10
+    },
+    "type": 0,
+    "id": "0232"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "刚弹耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "46": 10,
+      "36": -5
+    },
+    "type": 0,
+    "id": "0233"
+  },
+  {
+    "category": 0,
+    "defense": {
+      "base": 10
+    },
+    "name": "疾风耳饰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "62": 10
+    },
+    "type": 0,
+    "id": "0234"
+  }
+]

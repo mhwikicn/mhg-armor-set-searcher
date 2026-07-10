@@ -1,0 +1,4281 @@
+[
+  {
+    "category": 3,
+    "defense": {
+      "base": 1
+    },
+    "name": "轻革腰带",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "49": 5,
+      "23": 2,
+      "9": 3
+    },
+    "type": 0,
+    "id": "0001"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 2
+    },
+    "name": "轻链腰带",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "39": 4
+    },
+    "type": 0,
+    "id": "0002"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 4
+    },
+    "name": "猎人腰甲",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "48": 4,
+      "39": 2,
+      "58": 2
+    },
+    "type": 1,
+    "id": "0003"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 3
+    },
+    "name": "猎人围腰",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "48": 4,
+      "39": 2,
+      "58": 2
+    },
+    "type": 2,
+    "id": "0004"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 1
+    },
+    "name": "轻皮腰带",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      2,
+      -2
+    ],
+    "skills": {
+      "23": 5,
+      "43": 2,
+      "30": 2,
+      "39": 2
+    },
+    "type": 0,
+    "id": "0047"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 2
+    },
+    "name": "铁制腰带",
+    "rarity": 1,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      -4,
+      -6,
+      0
+    ],
+    "skills": {
+      "39": 9,
+      "43": 1,
+      "30": 1
+    },
+    "type": 0,
+    "id": "0049"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 9
+    },
+    "name": "韧皮腰带",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      2,
+      0
+    ],
+    "skills": {
+      "55": 9
+    },
+    "type": 0,
+    "id": "0048"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 8
+    },
+    "name": "蓝速龙腰甲",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "8": 1
+    },
+    "type": 1,
+    "id": "0005"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 4
+    },
+    "name": "蓝速龙围腰",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "8": 1
+    },
+    "type": 2,
+    "id": "0006"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 11
+    },
+    "name": "黄速龙腰甲",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      3,
+      -1
+    ],
+    "skills": {
+      "2": 3,
+      "45": 2,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 1,
+    "id": "0007"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 6
+    },
+    "name": "黄速龙围腰",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "2": 3,
+      "45": 2,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 2,
+    "id": "0008"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "红速龙腰甲",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      2,
+      -2,
+      -1
+    ],
+    "skills": {
+      "1": 3,
+      "19": 2,
+      "35": 2,
+      "39": 2,
+      "59": -2
+    },
+    "type": 1,
+    "id": "0009"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 7
+    },
+    "name": "红速龙围腰",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      4,
+      0,
+      0
+    ],
+    "skills": {
+      "1": 3,
+      "19": 2,
+      "35": 2,
+      "39": 2,
+      "59": -2
+    },
+    "type": 2,
+    "id": "0010"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "雌火龙腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 5,
+      "35": 2,
+      "1": -2,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0011"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 8
+    },
+    "name": "雌火龙围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 5,
+      "35": 2,
+      "1": -2,
+      "26": -2
+    },
+    "type": 2,
+    "id": "0012"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "沙龙腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "38": 5,
+      "15": 2,
+      "22": -2,
+      "35": 2
+    },
+    "type": 1,
+    "id": "0013"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 8
+    },
+    "name": "沙龙围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "38": 5,
+      "15": 2,
+      "22": -2,
+      "35": 2
+    },
+    "type": 2,
+    "id": "0014"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 12
+    },
+    "name": "怪鸟腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      -1
+    ],
+    "skills": {
+      "30": 4,
+      "55": 2,
+      "39": 2,
+      "59": -3
+    },
+    "type": 1,
+    "id": "0015"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 6
+    },
+    "name": "怪鸟围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "30": 4,
+      "55": 2,
+      "39": 2,
+      "59": -3
+    },
+    "type": 2,
+    "id": "0016"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 8
+    },
+    "name": "战斗腰甲",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "14": 2,
+      "43": 3
+    },
+    "type": 1,
+    "id": "0017"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 5
+    },
+    "name": "战斗围腰",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "36": 3,
+      "43": 3
+    },
+    "type": 2,
+    "id": "0018"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 7
+    },
+    "name": "骸骨腰甲",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "4": 5,
+      "53": 2,
+      "26": -2
+    },
+    "type": 1,
+    "id": "0019"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 4
+    },
+    "name": "骸骨围腰",
+    "rarity": 2,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "4": 1,
+      "53": 2,
+      "22": 6,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0020"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "毒怪鸟腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "29": 5,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 1,
+    "id": "0021"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 7
+    },
+    "name": "毒怪鸟围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "29": 5,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 2,
+    "id": "0022"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 17
+    },
+    "name": "雄火龙腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      -4
+    ],
+    "skills": {
+      "30": 5,
+      "55": 2,
+      "26": -2,
+      "60": -2
+    },
+    "type": 1,
+    "id": "0023"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 9
+    },
+    "name": "雄火龙围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      -2
+    ],
+    "skills": {
+      "30": 5,
+      "55": 2,
+      "26": -2,
+      "60": -2
+    },
+    "type": 2,
+    "id": "0024"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "精炼矿石腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "45": 2,
+      "35": 2,
+      "11": 1
+    },
+    "type": 1,
+    "id": "0053"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 5
+    },
+    "name": "精炼矿石围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "45": 2,
+      "35": 2,
+      "11": 1
+    },
+    "type": 2,
+    "id": "0054"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "电龙腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      3,
+      4,
+      0
+    ],
+    "skills": {
+      "16": 3,
+      "37": 3,
+      "14": 2,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0055"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 9
+    },
+    "name": "电龙围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      6,
+      0
+    ],
+    "skills": {
+      "16": 3,
+      "37": 3,
+      "36": 2,
+      "22": -3
+    },
+    "type": 2,
+    "id": "0056"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "巨蜂腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -5,
+      2,
+      2
+    ],
+    "skills": {
+      "3": 5,
+      "12": 4
+    },
+    "type": 1,
+    "id": "0057"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 5
+    },
+    "name": "巨蜂围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      -4,
+      5,
+      2
+    ],
+    "skills": {
+      "3": 5,
+      "12": 4
+    },
+    "type": 0,
+    "id": "0058"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "爬虫腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -1,
+      -5,
+      2
+    ],
+    "skills": {
+      "1": 5
+    },
+    "type": 1,
+    "id": "0059"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 5
+    },
+    "name": "爬虫围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      2,
+      -3,
+      3
+    ],
+    "skills": {
+      "1": 5,
+      "35": 3
+    },
+    "type": 2,
+    "id": "0060"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "铠龙腰甲",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      -2
+    ],
+    "skills": {
+      "39": 3,
+      "38": 2,
+      "53": -3
+    },
+    "type": 1,
+    "id": "0061"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "铠龙围腰",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "38": 2,
+      "53": -3
+    },
+    "type": 2,
+    "id": "0062"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 12
+    },
+    "name": "钢制腰带",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "45": 4,
+      "58": 3,
+      "19": -2,
+      "26": -2
+    },
+    "type": 1,
+    "id": "0050"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 12
+    },
+    "name": "合金扣带・阳",
+    "rarity": 3,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      0
+    ],
+    "skills": {},
+    "type": 0,
+    "id": "0070"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 22
+    },
+    "name": "晓丸【腰当】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 2,
+      "14": 3,
+      "35": 2
+    },
+    "type": 1,
+    "id": "0029"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 11
+    },
+    "name": "曙丸【腰当】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "36": 3,
+      "35": 2
+    },
+    "type": 2,
+    "id": "0030"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 22
+    },
+    "name": "红凛【腰当】(女)",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 2,
+      "55": 5,
+      "35": 2
+    },
+    "type": 1,
+    "id": "0051"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 11
+    },
+    "name": "红艳【腰当】(女)",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      1,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "55": 5,
+      "35": 2
+    },
+    "type": 2,
+    "id": "0052"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 24
+    },
+    "name": "邪龍之翼",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "16": 2,
+      "30": 3,
+      "56": 2,
+      "41": 2,
+      "53": -2
+    },
+    "type": 1,
+    "id": "0039"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 12
+    },
+    "name": "邪龍之尾",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "30": 3,
+      "56": 2,
+      "41": 2,
+      "53": -2
+    },
+    "type": 2,
+    "id": "0040"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "公会骑士扣带",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3
+    },
+    "type": 0,
+    "id": "0041"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "公会骑士围腰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3
+    },
+    "type": 0,
+    "id": "0042"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "忍之带・阳",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      -6,
+      2,
+      1
+    ],
+    "skills": {
+      "1": 2,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0045"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 10
+    },
+    "name": "忍之带・阴",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -5,
+      4,
+      2
+    ],
+    "skills": {
+      "1": 2,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0046"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 12
+    },
+    "name": "黑带腰甲",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "skills": {
+      "15": 3,
+      "35": 3,
+      "22": -2,
+      "38": -3
+    },
+    "type": 0,
+    "id": "0151"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "樱火龙腰甲",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 2,
+      "11": 2,
+      "9": 3,
+      "2": -2
+    },
+    "type": 1,
+    "id": "0152"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 8
+    },
+    "name": "樱火龙围腰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 2,
+      "11": 2,
+      "9": 3,
+      "53": -2
+    },
+    "type": 2,
+    "id": "0153"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 17
+    },
+    "name": "苍火龙腰甲",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -1,
+      -4
+    ],
+    "skills": {
+      "44": 3,
+      "50": 2,
+      "23": -2,
+      "35": 2
+    },
+    "type": 1,
+    "id": "0154"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 9
+    },
+    "name": "苍火龙围腰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      5,
+      2,
+      -2
+    ],
+    "skills": {
+      "44": 3,
+      "42": 2,
+      "23": -2,
+      "35": 2
+    },
+    "type": 2,
+    "id": "0155"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 11
+    },
+    "name": "轻革Ｇ腰带",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "49": 5,
+      "12": 3,
+      "26": -3
+    },
+    "type": 0,
+    "id": "0071"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 12
+    },
+    "name": "轻链Ｇ腰带",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "25": 2,
+      "35": 4
+    },
+    "type": 0,
+    "id": "0073"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "猎人Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "48": 4,
+      "10": 2,
+      "39": 2,
+      "58": -3
+    },
+    "type": 1,
+    "id": "0075"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "猎人Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "48": 4,
+      "47": 2,
+      "39": 2,
+      "58": -3
+    },
+    "type": 2,
+    "id": "0076"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 11
+    },
+    "name": "轻皮Ｇ腰带",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      2,
+      -2
+    ],
+    "skills": {
+      "23": 5,
+      "43": 2,
+      "30": 2,
+      "39": 2
+    },
+    "type": 0,
+    "id": "0072"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 12
+    },
+    "name": "铁制Ｇ腰带",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      -4,
+      -6,
+      0
+    ],
+    "skills": {
+      "39": 5,
+      "43": 1,
+      "30": 1
+    },
+    "type": 0,
+    "id": "0074"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "韧皮Ｇ腰带",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      2,
+      0
+    ],
+    "skills": {
+      "55": 9,
+      "39": 2
+    },
+    "type": 0,
+    "id": "0083"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "蓝速龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "22": 5,
+      "25": 2,
+      "41": 2,
+      "3": -2
+    },
+    "type": 1,
+    "id": "0079"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "蓝速龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "22": 4,
+      "39": 2,
+      "58": 2,
+      "36": 3
+    },
+    "type": 2,
+    "id": "0080"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 21
+    },
+    "name": "黄速龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      3,
+      -1
+    ],
+    "skills": {
+      "2": 3,
+      "45": 2,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 1,
+    "id": "0084"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "黄速龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "2": 3,
+      "45": 2,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 2,
+    "id": "0085"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 23
+    },
+    "name": "红速龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      2,
+      -2,
+      -1
+    ],
+    "skills": {
+      "1": 3,
+      "19": 2,
+      "35": 2,
+      "39": 2,
+      "59": -2
+    },
+    "type": 1,
+    "id": "0087"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "红速龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      4,
+      0,
+      0
+    ],
+    "skills": {
+      "1": 3,
+      "19": 2,
+      "35": 2,
+      "39": 2,
+      "59": -2
+    },
+    "type": 2,
+    "id": "0088"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 26
+    },
+    "name": "雌火龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 5,
+      "35": 2,
+      "1": -2,
+      "26": -2
+    },
+    "type": 1,
+    "id": "0064"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "雌火龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 5,
+      "35": 2,
+      "1": -2,
+      "26": -2
+    },
+    "type": 2,
+    "id": "0065"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 24
+    },
+    "name": "沙龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "38": 5,
+      "15": 2,
+      "22": -2,
+      "35": 2
+    },
+    "type": 1,
+    "id": "0091"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "沙龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "38": 5,
+      "15": 2,
+      "22": -2,
+      "35": 2
+    },
+    "type": 2,
+    "id": "0092"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 22
+    },
+    "name": "怪鸟Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      -1
+    ],
+    "skills": {
+      "30": 3,
+      "22": 4,
+      "58": -3
+    },
+    "type": 1,
+    "id": "0068"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "怪鸟Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "30": 3,
+      "22": 4,
+      "39": -3
+    },
+    "type": 2,
+    "id": "0069"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "战斗Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "14": 4,
+      "43": 2,
+      "58": 2,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0081"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "战斗Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "36": 3,
+      "39": -3,
+      "18": -2
+    },
+    "type": 2,
+    "id": "0082"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 17
+    },
+    "name": "骸骨Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "4": 5,
+      "53": 2,
+      "57": 2,
+      "26": -2
+    },
+    "type": 1,
+    "id": "0077"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "骸骨Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "4": 1,
+      "53": 2,
+      "22": 4,
+      "57": 2,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0078"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 24
+    },
+    "name": "毒怪鸟Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "29": 5,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 1,
+    "id": "0089"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "毒怪鸟Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "29": 5,
+      "39": 4,
+      "28": 1,
+      "11": -1
+    },
+    "type": 2,
+    "id": "0090"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 27
+    },
+    "name": "雄火龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      -4
+    ],
+    "skills": {
+      "30": 3,
+      "16": 2,
+      "55": 2,
+      "19": -2,
+      "60": -2
+    },
+    "type": 1,
+    "id": "0066"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "雄火龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      -2
+    ],
+    "skills": {
+      "30": 3,
+      "16": 2,
+      "55": 2,
+      "19": -2,
+      "26": -2
+    },
+    "type": 2,
+    "id": "0067"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "精炼矿石Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "45": 2,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 1,
+    "id": "0027"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "精炼矿石Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "45": 2,
+      "35": 2,
+      "26": -2,
+      "1": -2
+    },
+    "type": 2,
+    "id": "0028"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 26
+    },
+    "name": "电龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      3,
+      4,
+      0
+    ],
+    "skills": {
+      "16": 2,
+      "28": 3,
+      "14": 2,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0035"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "电龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      6,
+      0
+    ],
+    "skills": {
+      "16": 2,
+      "28": 2,
+      "22": -3
+    },
+    "type": 2,
+    "id": "0036"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "巨蜂Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -5,
+      2,
+      2
+    ],
+    "skills": {
+      "3": 5,
+      "1": 2,
+      "2": 2,
+      "22": -2
+    },
+    "type": 1,
+    "id": "0033"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "巨蜂Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      -4,
+      5,
+      2
+    ],
+    "skills": {
+      "3": 4,
+      "1": 2,
+      "2": 2,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0034"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "爬虫Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -1,
+      -5,
+      2
+    ],
+    "skills": {
+      "1": 4,
+      "2": 4,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0037"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 13
+    },
+    "name": "爬虫Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      2,
+      -3,
+      3
+    ],
+    "skills": {
+      "1": 5,
+      "2": 4,
+      "22": -2
+    },
+    "type": 2,
+    "id": "0038"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 30
+    },
+    "name": "铠龙Ｇ腰甲",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      -2
+    ],
+    "skills": {
+      "39": 2,
+      "38": 1,
+      "40": 4,
+      "53": -3
+    },
+    "type": 1,
+    "id": "0025"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "铠龙Ｇ围腰",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 2,
+      "38": 3,
+      "53": -3,
+      "22": -3
+    },
+    "type": 2,
+    "id": "0026"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 22
+    },
+    "name": "钢制Ｇ腰带",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "45": 5,
+      "58": 2,
+      "19": -2,
+      "26": -2
+    },
+    "type": 1,
+    "id": "0063"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 17
+    },
+    "name": "合金Ｇ扣带・阳",
+    "rarity": 4,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      0
+    ],
+    "skills": {},
+    "type": 0,
+    "id": "0086"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 32
+    },
+    "name": "晓丸・罗【腰当】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 2,
+      "43": 2,
+      "14": 3,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0166"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "曙丸・罗【腰当】",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "43": 2,
+      "36": 3,
+      "39": -3
+    },
+    "type": 2,
+    "id": "0167"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 32
+    },
+    "name": "红凛・罗【腰当】(女)",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 2,
+      "43": 2,
+      "55": 4,
+      "35": 3
+    },
+    "type": 1,
+    "id": "0170"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "红艳・罗【腰当】(女)",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      1,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 2,
+      "43": 2,
+      "55": 4,
+      "35": 3
+    },
+    "type": 2,
+    "id": "0171"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 34
+    },
+    "name": "邪龍Ｇ之翼",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "30": 2,
+      "56": 3,
+      "58": -2,
+      "53": -3
+    },
+    "type": 1,
+    "id": "0172"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 17
+    },
+    "name": "邪龍Ｇ之尾",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "30": 2,
+      "56": 3,
+      "39": -2,
+      "53": -3
+    },
+    "type": 2,
+    "id": "0173"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "公会骑士Ｇ扣带",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3,
+      "11": 3
+    },
+    "type": 0,
+    "id": "0158"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "公会骑士Ｇ围腰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "31": 2,
+      "23": 3,
+      "11": 3
+    },
+    "type": 0,
+    "id": "0159"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "忍之带・白",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      -6,
+      2,
+      1
+    ],
+    "skills": {
+      "1": 3,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0156"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "忍之带・黑",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -5,
+      4,
+      2
+    ],
+    "skills": {
+      "1": 3,
+      "26": 2,
+      "53": 2
+    },
+    "type": 0,
+    "id": "0157"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 26
+    },
+    "name": "樱火龙Ｇ腰甲",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 3,
+      "11": 2,
+      "26": -2,
+      "35": 3
+    },
+    "type": 1,
+    "id": "0162"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 14
+    },
+    "name": "樱火龙Ｇ围腰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 3,
+      "11": 2,
+      "26": -2,
+      "35": 3
+    },
+    "type": 2,
+    "id": "0163"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 27
+    },
+    "name": "苍火龙Ｇ腰甲",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -1,
+      -4
+    ],
+    "skills": {
+      "22": 3,
+      "30": 2,
+      "58": -2,
+      "23": -3
+    },
+    "type": 1,
+    "id": "0164"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "苍火龙Ｇ围腰",
+    "rarity": 5,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      5,
+      2,
+      -2
+    ],
+    "skills": {
+      "22": 3,
+      "30": 2,
+      "58": -2,
+      "23": -3
+    },
+    "type": 2,
+    "id": "0165"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "轻革Ｓ腰带",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "44": 2,
+      "31": 2,
+      "35": 2,
+      "22": -3
+    },
+    "type": 0,
+    "id": "0093"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 17
+    },
+    "name": "轻链Ｓ腰带",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "52": 3,
+      "45": 2,
+      "39": -4
+    },
+    "type": 0,
+    "id": "0095"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 24
+    },
+    "name": "猎人Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "16": 3,
+      "11": 2,
+      "3": -2,
+      "15": -3
+    },
+    "type": 1,
+    "id": "0097"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "猎人Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "16": 3,
+      "11": 3,
+      "32": 2,
+      "36": -1
+    },
+    "type": 2,
+    "id": "0098"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "轻皮Ｓ腰带",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      2,
+      -2
+    ],
+    "skills": {
+      "18": 6,
+      "12": 3,
+      "26": -2
+    },
+    "type": 0,
+    "id": "0094"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 17
+    },
+    "name": "铁制Ｓ腰带",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      -4,
+      -6,
+      0
+    ],
+    "skills": {
+      "30": 4,
+      "15": 2
+    },
+    "type": 0,
+    "id": "0096"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "韧皮Ｓ腰带",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      2,
+      0
+    ],
+    "skills": {
+      "55": 9,
+      "39": 2
+    },
+    "type": 0,
+    "id": "0105"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 28
+    },
+    "name": "蓝速龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "22": 4,
+      "3": 2,
+      "39": 2,
+      "14": -2
+    },
+    "type": 1,
+    "id": "0101"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "蓝速龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "22": 4,
+      "3": 3,
+      "20": 2,
+      "36": -2
+    },
+    "type": 2,
+    "id": "0102"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 31
+    },
+    "name": "黄速龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      3,
+      -1
+    ],
+    "skills": {
+      "2": 3,
+      "22": 2,
+      "52": 2,
+      "45": -3
+    },
+    "type": 1,
+    "id": "0112"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "黄速龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "2": 3,
+      "22": 2,
+      "20": 2,
+      "36": -3
+    },
+    "type": 2,
+    "id": "0113"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 33
+    },
+    "name": "红速龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      2,
+      -2,
+      -1
+    ],
+    "skills": {
+      "1": 1,
+      "18": 2,
+      "51": 4,
+      "14": -4
+    },
+    "type": 1,
+    "id": "0117"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "红速龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      4,
+      0,
+      0
+    ],
+    "skills": {
+      "1": 2,
+      "2": 3,
+      "46": 3,
+      "36": -3
+    },
+    "type": 2,
+    "id": "0118"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 36
+    },
+    "name": "雌火龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 3,
+      "18": 2,
+      "14": 3,
+      "53": -3
+    },
+    "type": 1,
+    "id": "0124"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "雌火龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "18": 2,
+      "15": 3,
+      "58": 4,
+      "45": -2
+    },
+    "type": 2,
+    "id": "0125"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 34
+    },
+    "name": "沙龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "38": 2,
+      "14": 4,
+      "48": 1,
+      "22": -2
+    },
+    "type": 1,
+    "id": "0121"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "沙龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "38": 2,
+      "58": 3,
+      "48": 2,
+      "22": -3
+    },
+    "type": 2,
+    "id": "0122"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 32
+    },
+    "name": "怪鸟Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      -1
+    ],
+    "skills": {
+      "30": 5,
+      "11": 2,
+      "58": -4
+    },
+    "type": 1,
+    "id": "0114"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "怪鸟Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "30": 4,
+      "11": 2,
+      "39": -4
+    },
+    "type": 2,
+    "id": "0115"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 28
+    },
+    "name": "战斗Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "35": 4,
+      "43": 2,
+      "10": 2,
+      "15": -3
+    },
+    "type": 1,
+    "id": "0103"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "战斗Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "36": 5,
+      "35": 2,
+      "58": -4
+    },
+    "type": 2,
+    "id": "0104"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 27
+    },
+    "name": "骸骨Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "4": 2,
+      "38": 2,
+      "50": 2,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0099"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "骸骨Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "4": 2,
+      "38": 2,
+      "45": 2,
+      "2": -3
+    },
+    "type": 2,
+    "id": "0100"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 34
+    },
+    "name": "毒怪鸟Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "25": 5,
+      "51": 3,
+      "4": 1,
+      "58": -2
+    },
+    "type": 1,
+    "id": "0119"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "毒怪鸟Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "25": 2,
+      "33": 3,
+      "36": -3,
+      "58": -3
+    },
+    "type": 2,
+    "id": "0120"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 37
+    },
+    "name": "雄火龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      -4
+    ],
+    "skills": {
+      "24": 4,
+      "16": 2,
+      "18": 2,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0128"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "雄火龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      -2
+    ],
+    "skills": {
+      "20": 2,
+      "16": 2,
+      "36": -2,
+      "11": -2
+    },
+    "type": 2,
+    "id": "0129"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 30
+    },
+    "name": "精炼矿石Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 3,
+      "49": 3,
+      "18": 2,
+      "37": -3
+    },
+    "type": 1,
+    "id": "0110"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "精炼矿石Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 2,
+      "20": 2,
+      "35": 2,
+      "37": -3,
+      "36": -2
+    },
+    "type": 2,
+    "id": "0111"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 36
+    },
+    "name": "电龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      3,
+      4,
+      0
+    ],
+    "skills": {
+      "28": 4,
+      "44": 2,
+      "22": -2,
+      "18": -3
+    },
+    "type": 1,
+    "id": "0126"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "电龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      6,
+      0
+    ],
+    "skills": {
+      "28": 4,
+      "58": 3,
+      "1": -2,
+      "18": -2
+    },
+    "type": 2,
+    "id": "0127"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 30
+    },
+    "name": "巨蜂Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -5,
+      2,
+      2
+    ],
+    "skills": {
+      "1": 3,
+      "41": 2,
+      "53": -6
+    },
+    "type": 1,
+    "id": "0106"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "巨蜂Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      -4,
+      5,
+      2
+    ],
+    "skills": {
+      "1": 3,
+      "41": 2,
+      "3": 3,
+      "53": -3
+    },
+    "type": 2,
+    "id": "0107"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 30
+    },
+    "name": "爬虫Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -6,
+      -1,
+      -5,
+      2
+    ],
+    "skills": {
+      "60": 5,
+      "11": 2,
+      "53": -4
+    },
+    "type": 1,
+    "id": "0108"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 15
+    },
+    "name": "爬虫Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -5,
+      2,
+      -3,
+      3
+    ],
+    "skills": {
+      "60": 5,
+      "11": 2,
+      "58": -4
+    },
+    "type": 2,
+    "id": "0109"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 40
+    },
+    "name": "铠龙Ｓ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      -2
+    ],
+    "skills": {
+      "39": 3,
+      "30": 2,
+      "58": -3,
+      "18": -3
+    },
+    "type": 1,
+    "id": "0130"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "铠龙Ｓ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "17": 3,
+      "36": -3
+    },
+    "type": 2,
+    "id": "0131"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 32
+    },
+    "name": "钢制Ｓ腰带",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "45": 3,
+      "50": 3,
+      "58": -4
+    },
+    "type": 1,
+    "id": "0123"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 22
+    },
+    "name": "合金Ｓ扣带・阳",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      0
+    ],
+    "skills": {
+      "56": 2,
+      "35": 4,
+      "53": -2
+    },
+    "type": 0,
+    "id": "0116"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 42
+    },
+    "name": "晓丸・霸【腰当】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 3,
+      "30": 3,
+      "58": -3,
+      "34": 2
+    },
+    "type": 1,
+    "id": "0184"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 21
+    },
+    "name": "曙丸・霸【腰当】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 3,
+      "36": 3,
+      "58": -5
+    },
+    "type": 2,
+    "id": "0185"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 42
+    },
+    "name": "红凛・霸【腰当】(女)",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      -4
+    ],
+    "skills": {
+      "16": 3,
+      "34": 3,
+      "35": 2,
+      "58": -3
+    },
+    "type": 1,
+    "id": "0202"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 21
+    },
+    "name": "红艳・霸【腰当】(女)",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      1,
+      2,
+      -2
+    ],
+    "skills": {
+      "16": 3,
+      "34": 2,
+      "35": 4,
+      "36": -2
+    },
+    "type": 2,
+    "id": "0203"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 44
+    },
+    "name": "邪龍Ｓ之翼",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "16": 2,
+      "30": 3,
+      "24": 2,
+      "22": -4
+    },
+    "type": 1,
+    "id": "0188"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 22
+    },
+    "name": "邪龍Ｓ之尾",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "16": 3,
+      "36": 3,
+      "18": 3,
+      "58": -2
+    },
+    "type": 2,
+    "id": "0189"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "公会骑士Ｓ扣带",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "18": 2,
+      "11": 3,
+      "25": 2,
+      "9": 2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0176"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "公会骑士Ｓ围腰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "18": 2,
+      "11": 3,
+      "25": 2,
+      "9": 2,
+      "1": -2
+    },
+    "type": 0,
+    "id": "0177"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "忍之带・天",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      -6,
+      2,
+      1
+    ],
+    "skills": {
+      "18": 2,
+      "26": 2,
+      "53": 3,
+      "49": 2,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0174"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "忍之带・地",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -5,
+      4,
+      2
+    ],
+    "skills": {
+      "18": 2,
+      "26": 2,
+      "53": 3,
+      "57": 2,
+      "22": -2
+    },
+    "type": 0,
+    "id": "0175"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 36
+    },
+    "name": "樱火龙Ｓ腰甲",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      -4
+    ],
+    "skills": {
+      "39": 3,
+      "15": 2,
+      "22": -2,
+      "53": -2
+    },
+    "type": 1,
+    "id": "0180"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "樱火龙Ｓ围腰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      -2
+    ],
+    "skills": {
+      "39": 2,
+      "15": 3,
+      "42": 2,
+      "22": -2,
+      "45": -2
+    },
+    "type": 2,
+    "id": "0181"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 37
+    },
+    "name": "苍火龙Ｓ腰甲",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -1,
+      -4
+    ],
+    "skills": {
+      "24": 2,
+      "56": 2,
+      "16": 2,
+      "53": -2,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0182"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "苍火龙Ｓ围腰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      5,
+      2,
+      -2
+    ],
+    "skills": {
+      "46": 3,
+      "11": 3,
+      "36": -3,
+      "23": -2
+    },
+    "type": 2,
+    "id": "0183"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 16
+    },
+    "name": "轻革Ｕ腰带",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      1
+    ],
+    "skills": {
+      "40": 3,
+      "20": 3,
+      "53": -3,
+      "36": -2
+    },
+    "type": 0,
+    "id": "0132"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 24
+    },
+    "name": "猎人Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      -4,
+      0
+    ],
+    "skills": {
+      "43": 3,
+      "50": 2,
+      "34": 3,
+      "22": -2
+    },
+    "type": 1,
+    "id": "0133"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "猎人Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      0
+    ],
+    "skills": {
+      "43": 3,
+      "35": 4,
+      "22": -3
+    },
+    "type": 2,
+    "id": "0134"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 40
+    },
+    "name": "蓝速龙Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      1,
+      1,
+      -1
+    ],
+    "skills": {
+      "25": 2,
+      "34": 3,
+      "1": -1,
+      "27": 3
+    },
+    "type": 1,
+    "id": "0137"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "蓝速龙Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      3,
+      3,
+      0
+    ],
+    "skills": {
+      "25": 2,
+      "34": 2,
+      "39": -1
+    },
+    "type": 2,
+    "id": "0138"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 34
+    },
+    "name": "沙龙Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -3,
+      2,
+      -4,
+      0
+    ],
+    "skills": {
+      "11": 3,
+      "48": 2,
+      "44": 3,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0145"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "沙龙Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      5,
+      -2,
+      1
+    ],
+    "skills": {
+      "11": 3,
+      "48": 2,
+      "35": 3,
+      "39": -1
+    },
+    "type": 2,
+    "id": "0146"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 32
+    },
+    "name": "怪鸟Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      0,
+      -1
+    ],
+    "skills": {
+      "30": 5,
+      "50": 2,
+      "58": -4
+    },
+    "type": 1,
+    "id": "0141"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "怪鸟Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "30": 5,
+      "58": 2,
+      "39": -4
+    },
+    "type": 2,
+    "id": "0142"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 28
+    },
+    "name": "战斗Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      -2,
+      0
+    ],
+    "skills": {
+      "35": 3,
+      "24": 2,
+      "22": -3,
+      "30": -3
+    },
+    "type": 1,
+    "id": "0200"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "战斗Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      0,
+      0,
+      2
+    ],
+    "skills": {
+      "35": 3,
+      "21": 3,
+      "43": 2,
+      "39": -3
+    },
+    "type": 2,
+    "id": "0201"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 27
+    },
+    "name": "骸骨Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      2,
+      -2,
+      -2
+    ],
+    "skills": {
+      "9": 3,
+      "34": 3,
+      "1": -2
+    },
+    "type": 1,
+    "id": "0135"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "骸骨Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      5,
+      0,
+      0
+    ],
+    "skills": {
+      "9": 2,
+      "34": 2,
+      "46": 2,
+      "18": -2,
+      "36": -2
+    },
+    "type": 2,
+    "id": "0136"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 34
+    },
+    "name": "毒怪鸟Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -4,
+      1,
+      4,
+      0
+    ],
+    "skills": {
+      "1": 3,
+      "15": 3,
+      "58": -1,
+      "35": 2,
+      "29": 2
+    },
+    "type": 1,
+    "id": "0143"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 19
+    },
+    "name": "毒怪鸟Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -1,
+      4,
+      6,
+      0
+    ],
+    "skills": {
+      "61": 5,
+      "39": -5
+    },
+    "type": 2,
+    "id": "0144"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 30
+    },
+    "name": "精炼矿石Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      -2,
+      3,
+      0
+    ],
+    "skills": {
+      "39": 6,
+      "24": 2,
+      "22": -3
+    },
+    "type": 1,
+    "id": "0139"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 18
+    },
+    "name": "精炼矿石Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      0,
+      5,
+      0
+    ],
+    "skills": {
+      "39": 2,
+      "42": 2,
+      "38": -3,
+      "45": -2
+    },
+    "type": 2,
+    "id": "0140"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 36
+    },
+    "name": "电龙Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      3,
+      -3,
+      4,
+      0
+    ],
+    "skills": {
+      "16": 6,
+      "15": 2,
+      "50": -3
+    },
+    "type": 1,
+    "id": "0147"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "电龙Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      5,
+      -1,
+      6,
+      0
+    ],
+    "skills": {
+      "28": 3,
+      "15": 2,
+      "36": -2,
+      "26": -4
+    },
+    "type": 2,
+    "id": "0148"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 40
+    },
+    "name": "铠龙Ｕ腰甲",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -2,
+      2,
+      0
+    ],
+    "skills": {
+      "39": 2,
+      "38": 2,
+      "11": 3,
+      "15": -2,
+      "35": 2
+    },
+    "type": 1,
+    "id": "0149"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 24
+    },
+    "name": "铠龙Ｕ围腰",
+    "rarity": 6,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "skills": {
+      "38": 2,
+      "35": 2,
+      "36": 2,
+      "39": -4
+    },
+    "type": 2,
+    "id": "0150"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 42
+    },
+    "name": "晓丸・皇【腰当】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      -2,
+      2,
+      0,
+      -4
+    ],
+    "skills": {
+      "27": 3,
+      "30": 2,
+      "18": 4,
+      "15": -2
+    },
+    "type": 1,
+    "id": "0190"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 21
+    },
+    "name": "曙丸・皇【腰当】",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      1,
+      3,
+      2,
+      -2
+    ],
+    "skills": {
+      "54": 3,
+      "36": -5,
+      "58": -3
+    },
+    "type": 2,
+    "id": "0191"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 44
+    },
+    "name": "魔龍之翼",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      0,
+      2,
+      2,
+      -5
+    ],
+    "skills": {
+      "40": 2,
+      "34": 2,
+      "18": 3,
+      "53": -2
+    },
+    "type": 1,
+    "id": "0198"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 22
+    },
+    "name": "魔龍之尾",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      4,
+      4,
+      -2
+    ],
+    "skills": {
+      "5": 2,
+      "34": -3,
+      "58": -5
+    },
+    "type": 2,
+    "id": "0199"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 40
+    },
+    "name": "金月扣带",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      0,
+      -2,
+      0
+    ],
+    "skills": {
+      "11": 3,
+      "24": 2,
+      "50": -2,
+      "22": -2,
+      "35": 2
+    },
+    "type": 1,
+    "id": "0194"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 20
+    },
+    "name": "金月围腰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      0,
+      0
+    ],
+    "skills": {
+      "11": 4,
+      "46": 2,
+      "36": -2,
+      "26": -2,
+      "35": 1
+    },
+    "type": 2,
+    "id": "0195"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 42
+    },
+    "name": "银日扣带",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      2,
+      -1,
+      2,
+      0
+    ],
+    "skills": {
+      "27": 2,
+      "24": 3,
+      "22": -3,
+      "11": -3
+    },
+    "type": 1,
+    "id": "0196"
+  },
+  {
+    "category": 3,
+    "defense": {
+      "base": 21
+    },
+    "name": "银日围腰",
+    "rarity": 7,
+    "hrlimit": 0,
+    "resistance": [
+      4,
+      2,
+      5,
+      0
+    ],
+    "skills": {
+      "21": 5,
+      "57": 2,
+      "39": -4
+    },
+    "type": 2,
+    "id": "0197"
+  }
+]
