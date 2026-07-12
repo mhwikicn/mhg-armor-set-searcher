@@ -587,7 +587,7 @@
     "defense": {
       "base": 10
     },
-    "name": "精炼矿石臂甲",
+    "name": "高等合金臂甲",
     "rarity": 3,
     "hrlimit": 0,
     "resistance": [
@@ -610,7 +610,7 @@
     "defense": {
       "base": 5
     },
-    "name": "精炼矿石护臂",
+    "name": "高等合金护臂",
     "rarity": 3,
     "hrlimit": 0,
     "resistance": [
@@ -1852,7 +1852,7 @@
     "defense": {
       "base": 20
     },
-    "name": "精炼矿石Ｇ臂甲",
+    "name": "高等合金Ｇ臂甲",
     "rarity": 4,
     "hrlimit": 0,
     "resistance": [
@@ -1875,7 +1875,7 @@
     "defense": {
       "base": 13
     },
-    "name": "精炼矿石Ｇ护臂",
+    "name": "高等合金Ｇ护臂",
     "rarity": 4,
     "hrlimit": 0,
     "resistance": [
@@ -3111,7 +3111,7 @@
     "defense": {
       "base": 30
     },
-    "name": "精炼矿石Ｓ臂甲",
+    "name": "高等合金Ｓ臂甲",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
@@ -3134,7 +3134,7 @@
     "defense": {
       "base": 18
     },
-    "name": "精炼矿石Ｓ护臂",
+    "name": "高等合金Ｓ护臂",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
@@ -4156,7 +4156,7 @@
     "defense": {
       "base": 30
     },
-    "name": "精炼矿石Ｕ臂甲",
+    "name": "高等合金Ｕ臂甲",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
@@ -4178,7 +4178,7 @@
     "defense": {
       "base": 18
     },
-    "name": "精炼矿石Ｕ护臂",
+    "name": "高等合金Ｕ护臂",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
