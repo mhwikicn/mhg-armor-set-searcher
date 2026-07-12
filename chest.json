@@ -592,7 +592,7 @@
     "defense": {
       "base": 10
     },
-    "name": "精炼矿石铠甲",
+    "name": "高等合金铠甲",
     "rarity": 3,
     "hrlimit": 0,
     "resistance": [
@@ -616,7 +616,7 @@
     "defense": {
       "base": 5
     },
-    "name": "精炼矿石轻甲",
+    "name": "高等合金轻甲",
     "rarity": 3,
     "hrlimit": 0,
     "resistance": [
@@ -1883,7 +1883,7 @@
     "defense": {
       "base": 20
     },
-    "name": "精炼矿石Ｇ铠甲",
+    "name": "高等合金Ｇ铠甲",
     "rarity": 4,
     "hrlimit": 0,
     "resistance": [
@@ -1907,7 +1907,7 @@
     "defense": {
       "base": 13
     },
-    "name": "精炼矿石Ｇ轻甲",
+    "name": "高等合金Ｇ轻甲",
     "rarity": 4,
     "hrlimit": 0,
     "resistance": [
@@ -3160,7 +3160,7 @@
     "defense": {
       "base": 30
     },
-    "name": "精炼矿石Ｓ铠甲",
+    "name": "高等合金Ｓ铠甲",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
@@ -3184,7 +3184,7 @@
     "defense": {
       "base": 18
     },
-    "name": "精炼矿石Ｓ轻甲",
+    "name": "高等合金Ｓ轻甲",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
@@ -4228,7 +4228,7 @@
     "defense": {
       "base": 30
     },
-    "name": "精炼矿石Ｕ铠甲",
+    "name": "高等合金Ｕ铠甲",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
@@ -4251,7 +4251,7 @@
     "defense": {
       "base": 18
     },
-    "name": "精炼矿石Ｕ轻甲",
+    "name": "高等合金Ｕ轻甲",
     "rarity": 6,
     "hrlimit": 0,
     "resistance": [
