@@ -957,7 +957,7 @@
     "defense": {
       "base": 24
     },
-    "name": "邪龍之翼",
+    "name": "黑龍之翼",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -981,7 +981,7 @@
     "defense": {
       "base": 12
     },
-    "name": "邪龍之尾",
+    "name": "黑龍之尾",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2188,7 +2188,7 @@
     "defense": {
       "base": 34
     },
-    "name": "邪龍Ｇ之翼",
+    "name": "黑龍Ｇ之翼",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2211,7 +2211,7 @@
     "defense": {
       "base": 17
     },
-    "name": "邪龍Ｇ之尾",
+    "name": "黑龍Ｇ之尾",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -3387,7 +3387,7 @@
     "defense": {
       "base": 44
     },
-    "name": "邪龍Ｓ之翼",
+    "name": "黑龍Ｓ之翼",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [
@@ -3410,7 +3410,7 @@
     "defense": {
       "base": 22
     },
-    "name": "邪龍Ｓ之尾",
+    "name": "黑龍Ｓ之尾",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [
