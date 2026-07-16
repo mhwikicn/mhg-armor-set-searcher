@@ -909,7 +909,7 @@
     "defense": {
       "base": 24
     },
-    "name": "邪龍之首",
+    "name": "黑龍之首",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -933,7 +933,7 @@
     "defense": {
       "base": 12
     },
-    "name": "邪龍之面",
+    "name": "黑龍之面",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2245,7 +2245,7 @@
     "defense": {
       "base": 34
     },
-    "name": "邪龍Ｇ之首",
+    "name": "黑龍Ｇ之首",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2268,7 +2268,7 @@
     "defense": {
       "base": 17
     },
-    "name": "邪龍Ｇ之面",
+    "name": "黑龍Ｇ之面",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -3573,7 +3573,7 @@
     "defense": {
       "base": 44
     },
-    "name": "邪龍Ｓ之首",
+    "name": "黑龍Ｓ之首",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [
@@ -3596,7 +3596,7 @@
     "defense": {
       "base": 22
     },
-    "name": "邪龍Ｓ之面",
+    "name": "黑龍Ｓ之面",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [

@@ -905,7 +905,7 @@
     "defense": {
       "base": 24
     },
-    "name": "邪龍之足",
+    "name": "黑龍之足",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -928,7 +928,7 @@
     "defense": {
       "base": 12
     },
-    "name": "邪龍之胫",
+    "name": "黑龍之胫",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2066,7 +2066,7 @@
     "defense": {
       "base": 34
     },
-    "name": "邪龍Ｇ之足",
+    "name": "黑龍Ｇ之足",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2089,7 +2089,7 @@
     "defense": {
       "base": 17
     },
-    "name": "邪龍Ｇ之胫",
+    "name": "黑龍Ｇ之胫",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -3233,7 +3233,7 @@
     "defense": {
       "base": 44
     },
-    "name": "邪龍Ｓ之足",
+    "name": "黑龍Ｓ之足",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [
@@ -3256,7 +3256,7 @@
     "defense": {
       "base": 22
     },
-    "name": "邪龍Ｓ之胫",
+    "name": "黑龍Ｓ之胫",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [

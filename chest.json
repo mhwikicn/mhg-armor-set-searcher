@@ -1017,7 +1017,7 @@
     "defense": {
       "base": 24
     },
-    "name": "邪龍之皮",
+    "name": "黑龍之皮",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -1041,7 +1041,7 @@
     "defense": {
       "base": 12
     },
-    "name": "邪龍之肤",
+    "name": "黑龍之肤",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2318,7 +2318,7 @@
     "defense": {
       "base": 34
     },
-    "name": "邪龍Ｇ之皮",
+    "name": "黑龍Ｇ之皮",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2341,7 +2341,7 @@
     "defense": {
       "base": 17
     },
-    "name": "邪龍Ｇ之肤",
+    "name": "黑龍Ｇ之肤",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -3589,7 +3589,7 @@
     "defense": {
       "base": 44
     },
-    "name": "邪龍Ｓ之皮",
+    "name": "黑龍Ｓ之皮",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [
@@ -3612,7 +3612,7 @@
     "defense": {
       "base": 22
     },
-    "name": "邪龍Ｓ之肤",
+    "name": "黑龍Ｓ之肤",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [

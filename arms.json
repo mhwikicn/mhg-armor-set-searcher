@@ -1015,7 +1015,7 @@
     "defense": {
       "base": 24
     },
-    "name": "邪龍之爪",
+    "name": "黑龍之爪",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -1039,7 +1039,7 @@
     "defense": {
       "base": 12
     },
-    "name": "邪龍之拳",
+    "name": "黑龍之拳",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2291,7 +2291,7 @@
     "defense": {
       "base": 34
     },
-    "name": "邪龍Ｇ之爪",
+    "name": "黑龍Ｇ之爪",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -2314,7 +2314,7 @@
     "defense": {
       "base": 17
     },
-    "name": "邪龍Ｇ之拳",
+    "name": "黑龍Ｇ之拳",
     "rarity": 5,
     "hrlimit": 0,
     "resistance": [
@@ -3542,7 +3542,7 @@
     "defense": {
       "base": 44
     },
-    "name": "邪龍Ｓ之爪",
+    "name": "黑龍Ｓ之爪",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [
@@ -3565,7 +3565,7 @@
     "defense": {
       "base": 22
     },
-    "name": "邪龍Ｓ之拳",
+    "name": "黑龍Ｓ之拳",
     "rarity": 7,
     "hrlimit": 0,
     "resistance": [
