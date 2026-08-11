@@ -98,13 +98,28 @@ const getPinPicker = (cat: EquipmentCategory, eq: EquipmentMin[]) => {
   skillDisplay.style.borderBottom = '1px dashed #ccc';
   root.appendChild(skillDisplay);
 
+  const rarityRow = document.createElement('div');
+  rarityRow.style.display = 'flex';
+  rarityRow.style.alignItems = 'center';
+  rarityRow.style.justifyContent = 'space-between';
+  rarityRow.style.width = '100%';
+  rarityRow.style.padding = '0.2em 0';
+  rarityRow.style.borderBottom = '1px dashed #ccc';
+  
+  const rarityDisplay = document.createElement('span');
+  rarityDisplay.id = `eq-${cat}-rarity-display`;
+  rarityDisplay.style.fontSize = '0.85em';
+  rarityDisplay.style.color = '#222';
+  rarityDisplay.style.minHeight = '1.2em';
+  rarityDisplay.textContent = '稀有度：';
   const detailBtn = document.createElement('span');
+  detailBtn.id = `eq-${cat}-detail-btn`;
   detailBtn.textContent = '详情';
   detailBtn.style.cursor = 'pointer';
   detailBtn.style.border = '1px solid var(--color-border)';
   detailBtn.style.borderRadius = '3px';
   detailBtn.style.padding = '0 0.6em';
-  detailBtn.style.fontSize = '0.9em';
+  detailBtn.style.fontSize = '0.85em';
   detailBtn.style.backgroundColor = 'var(--color-background)';
   detailBtn.addEventListener('click', () => {
     const selectedName = content.value;
@@ -116,17 +131,9 @@ const getPinPicker = (cat: EquipmentCategory, eq: EquipmentMin[]) => {
       if (url) window.open(url, 'equip');
     }
   });
-
-  const rarityDisplay = document.createElement('div');
-  rarityDisplay.id = `eq-${cat}-rarity-display`;
-  rarityDisplay.style.width = '100%';
-  rarityDisplay.style.textAlign = 'left';
-  rarityDisplay.style.fontSize = '0.85em';
-  rarityDisplay.style.color = '#222';
-  rarityDisplay.style.minHeight = '1.2em';
-  rarityDisplay.style.padding = '0.2em 0';
-  rarityDisplay.style.borderBottom = '1px dashed #ccc';
-  root.appendChild(rarityDisplay);
+  rarityRow.appendChild(rarityDisplay);
+  rarityRow.appendChild(detailBtn);
+  root.appendChild(rarityRow);
 
   const selectContainer = document.createElement('div');
   selectContainer.style.display = 'flex';
@@ -159,10 +166,12 @@ const getPinPicker = (cat: EquipmentCategory, eq: EquipmentMin[]) => {
       skillDisplay.innerHTML = getSkillsDisplayHTML(skills);
       const rarity = (selectedEq as any).rarity;
       const hrText = RARITY_MAP[rarity] || `稀有度${rarity}`;
-      rarityDisplay.innerHTML = `稀有度：${hrText}`;
+      rarityDisplay.textContent = `稀有度：${hrText}`;
+      detailBtn.style.display = 'inline-block';
     } else {
       skillDisplay.innerHTML = '';
-      rarityDisplay.innerHTML = '';
+      rarityDisplay.textContent = '';
+      detailBtn.style.display = 'none';
     }
   };
 
@@ -216,6 +225,7 @@ const getPinPicker = (cat: EquipmentCategory, eq: EquipmentMin[]) => {
     updateSkillDisplay(currentPin.name);
   } else {
   }
+  updateSkillDisplay(content.value);
   return root;
 };
 
@@ -275,6 +285,8 @@ export const removePin = (cat: EquipmentCategory) => {
   if (skillDisplay) skillDisplay.innerHTML = '';
   const rarityDisplay = document.getElementById(`eq-${cat}-rarity-display`);
   if (rarityDisplay) rarityDisplay.innerHTML = '';
+  const detailBtn = document.getElementById(`eq-${cat}-detail-btn`) as HTMLElement;
+  if (detailBtn) detailBtn.style.display = 'none';
 };
 
 export const addExclusion = (x: EquipmentMin) => {
