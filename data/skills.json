@@ -1144,7 +1144,7 @@
       "category": 6,
       "id": 82,
       "isPositive": true,
-      "name": "<反动>反动轻减+2",
+      "name": "<反冲>反冲轻减+2",
       "requiredPoints": 15,
       "requiredSkill": "54"
     },
@@ -1152,7 +1152,7 @@
       "category": 6,
       "id": 81,
       "isPositive": true,
-      "name": "<反动>反动轻减+1",
+      "name": "<反冲>反冲轻减+1",
       "requiredPoints": 10,
       "requiredSkill": "54"
     }
